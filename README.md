@@ -96,3 +96,4 @@
 91. `Rustbound Magic / 锈蚀魔法` [2.5.7](https://mods.vintagestory.at/rustboundmagic)
 92. `Teleportation Runes / 传送符文` [1.1.1](https://mods.vintagestory.at/tprunes)
 93. `Novelty! / 新奇感` [1.0.17](https://mods.vintagestory.at/novelty)
+94. `Floral Zones: East Asiatic Region/花卉区：东亚地区` [1.0.18](https://mods.vintagestory.at/floralzoneseastasiaticregion)

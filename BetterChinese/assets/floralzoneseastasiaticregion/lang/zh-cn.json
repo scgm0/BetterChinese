@@ -1,0 +1,290 @@
+{
+	"block-flower-callistephuschinensis-0-*": "紫色翠菊",
+	"block-flower-callistephuschinensis-1-*": "品红色翠菊",
+	"block-flower-callistephuschinensis-2-*": "深紫色翠菊",
+	"block-flower-callistephuschinensis-3-*": "粉色翠菊",
+	"block-flower-callistephuschinensis-4-*": "瑰红翠菊",
+	"block-flower-callistephuschinensis-5-*": "白色翠菊",
+	"block-flower-callistephuschinensis-6-*": "蓝色翠菊",
+	"block-flower-callistephuschinensis-7-*": "红色翠菊",
+	"blockdesc-flower-callistephuschinensis-*": "学名：翠菊 Callistephus chinensis",
+	
+	
+	"block-flower-deutziagracilis-*": "姬卯木",
+	"blockdesc-flower-deutziagracilis-*": "学名：细梗溲疏 Deutzia gracilis",
+	"block-flower-hibiscussyriacus-*": "木槿",
+	"blockdesc-flower-hibiscussyriacus-*": "学名：木槿",
+	"block-flower-iristyphifolia-*": "香蒲叶鸢尾",
+	"blockdesc-flower-iristyphifolia-*": "学名：北陵鸢尾 Iris typhifolia",
+	"block-flower-liliumauratum-*": "天香百合",
+	"blockdesc-flower-liliumauratum-*": "学名：山百合 Lilium auratum",
+	"block-flower-liliumlancifolium-*": "虎皮百合",
+
+	"blockdesc-flower-liliumlancifolium-*": "学名：卷丹百合 Lilium lancifolium",
+	"block-flower-lycorisradiata-*": "曼殊沙华",
+	"blockdesc-flower-lycorisradiata-*": "学名：石蒜 Lycoris radiata",
+	"block-flower-linnaeaamabilis-*": "美人木",
+	"blockdesc-flower-linnaeaamabilis-*": "学名：猬实 Linnaea amabilis", 
+	"block-flower-loropetalumchinense-*": "红花继木",
+	"block-leaves-*-loropetalumchinense": "红花继木",
+	"blockdesc-flower-loropetalumchinense-*": "学名：檵木 Loropetalum chinense", 
+	"block-flower-paeonialactiflora-*": "芍药",
+	"blockdesc-flower-paeonialactiflora-*": "学名：芍药 Paeonia lactiflora",
+
+	"block-flower-platycodongrandiflorus-*": "桔梗",
+	"blockdesc-flower-platycodongrandiflorus-*": "学名：桔梗 Platycodon grandiflorus",
+	"block-flower-utriculariawarburgii-*": "钩突挖耳草",
+	"blockdesc-flower-utriculariawarburgii-*": "学名：瓦堡狸藻 Utricularia warburgii",
+
+	"block-fern-cycasrevoluta": "铁树",
+	"blockdesc-fern-cycasrevoluta": "学名：苏铁 Cycas revoluta",
+	"block-fern-polystichumpolyblepharum": "棕鳞耳蕨",
+	"blockdesc-fern-polystichumpolyblepharum": "学名：棕鳞耳蕨 Polystichum polyblepharum",
+
+	"block-fern-trachycarpusfortunei": "棕榈叶",
+
+	"block-bigberrybush-trachycarpusfortunei-empty": "棕榈树（空置）",
+	"block-bigberrybush-trachycarpusfortunei-flowering": "棕榈树（开花）",
+	"block-bigberrybush-trachycarpusfortunei-ripe": "棕榈树（成熟）",
+	 "item-palmleaf-trachycarpusfortunei": "棕榈叶",
+	
+	"block-crop-petasitesjaponicus-5": "过熟的蜂斗菜",
+	"block-crop-petasitesjaponicus-4": "成熟的蜂斗菜",
+	"block-crop-petasitesjaponicus-*": "生长中的蜂斗菜",
+	
+	"block-crop-luffaaegyptiaca-7": "熟透的丝瓜",
+	"block-crop-luffaaegyptiaca-6": "可食用的丝瓜",
+	"block-crop-luffaaegyptiaca-*": "生长中的丝瓜",
+	
+	"block-tallplant-fargesianitida-*-normal-*": "华西箭竹",
+	"block-tallplant-fargesianitida-*-harvested-*": "华西箭竹（已收获）",
+	"blockdesc-tallplant-fargesianitida-*": "学名：华西箭竹 Fargesia nitida",
+	
+	"block-tallplant-puerariamontana-*-normal-*": "葛藤",
+	"block-tallplant-puerariamontana-*-harvested-*": "葛藤（已收获）",
+	"blockdesc-tallplant-puerariamontana-*": "学名：山葛 Pueraria montana",
+	"item-seeds-luffaaegyptiaca": "丝瓜种子",
+"itemdesc-seeds-luffaaegyptiaca": "趁早收获是一种好的蔬菜，若让果实在藤上晒干则能得到一个好的擦洗海绵。",
+"item-seeds-petasitesjaponicus": "蜂斗菜种子",
+"itemdesc-seeds-petasitesjaponicus": "需肥量大，生长迅速，放置太久会导致过度生长并减产。",
+
+	"item-sponge-luffaaegyptiaca": "丝瓜络",
+	"itemdesc-sponge-luffaaegyptiaca": "可与清洁剂一起使用，擦洗锅和碗。",
+	
+
+		"item-vegetable-liliumauratum": "山百合鳞茎",
+	"recipeingredient-item-vegetable-liliumauratum": "山百合鳞茎",
+	"recipeingredient-item-vegetable-liliumauratum-insturmentalcase": "山百合鳞茎",
+	"game:recipeingredient-item-vegetable-liliumauratum": "山百合鳞茎",
+	"game:recipeingredient-item-vegetable-liliumauratum-insturmentalcase": "山百合鳞茎",
+	"game:meal-ingredient-soup-primary-vegetable-liliumauratum": "山百合鳞茎",
+	"game:meal-ingredient-soup-secondary-vegetable-liliumauratum": "山百合鳞茎",
+	"game:meal-ingredient-stew-primary-vegetable-liliumauratum": "山百合鳞茎",
+	"game:meal-ingredient-stew-secondary-vegetable-liliumauratum": "山百合鳞茎",
+	"item-vegetable-luffaaegyptiaca": "丝瓜",
+	"recipeingredient-item-vegetable-luffaaegyptiaca": "丝瓜",
+	"recipeingredient-item-vegetable-luffaaegyptiaca-insturmentalcase": "丝瓜",
+	"game:recipeingredient-item-vegetable-luffaaegyptiaca": "丝瓜",
+	"game:recipeingredient-item-vegetable-luffaaegyptiaca-insturmentalcase": "丝瓜",
+	"game:meal-ingredient-soup-primary-vegetable-luffaaegyptiaca": "丝瓜",
+	"game:meal-ingredient-soup-secondary-vegetable-luffaaegyptiaca": "丝瓜",
+	"game:meal-ingredient-stew-primary-vegetable-luffaaegyptiaca": "丝瓜",
+	"game:meal-ingredient-stew-secondary-vegetable-luffaaegyptiaca": "丝瓜",
+	"item-pickledvegetable-luffaaegyptiaca": "腌丝瓜",
+	"recipeingredient-item-pickledvegetable-luffaaegyptiaca": "腌丝瓜",
+	"recipeingredient-item-pickledvegetable-luffaaegyptiaca-insturmentalcase": "腌丝瓜",
+	"game:recipeingredient-item-pickledvegetable-luffaaegyptiaca": "腌丝瓜",
+	"game:recipeingredient-item-pickledvegetable-luffaaegyptiaca-insturmentalcase": "腌丝瓜",
+	"game:meal-ingredient-soup-primary-pickledvegetable-luffaaegyptiaca": "腌丝瓜",
+	"game:meal-ingredient-soup-secondary-pickledvegetable-luffaaegyptiaca": "腌丝瓜",
+	"game:meal-ingredient-stew-primary-pickledvegetable-luffaaegyptiaca": "腌丝瓜",
+	"game:meal-ingredient-stew-secondary-pickledvegetable-luffaaegyptiaca": "腌丝瓜",
+	"item-vegetable-petasitesjaponicus": "蜂斗菜嫩茎",
+	"recipeingredient-item-vegetable-petasitesjaponicus": "蜂斗菜嫩茎",
+	"recipeingredient-item-vegetable-petasitesjaponicus-insturmentalcase": "蜂斗菜嫩茎",
+	"game:recipeingredient-item-vegetable-petasitesjaponicus": "蜂斗菜嫩茎",
+	"game:recipeingredient-item-vegetable-petasitesjaponicus-insturmentalcase": "蜂斗菜嫩茎",
+	"game:meal-ingredient-soup-primary-vegetable-petasitesjaponicus": "蜂斗菜嫩茎",
+	"game:meal-ingredient-soup-secondary-vegetable-petasitesjaponicus": "蜂斗菜嫩茎",
+	"game:meal-ingredient-stew-primary-vegetable-petasitesjaponicus": "蜂斗菜嫩茎",
+	"game:meal-ingredient-stew-secondary-vegetable-petasitesjaponicus": "蜂斗菜嫩茎",
+	"item-pickledvegetable-petasitesjaponicus": "腌蜂斗菜嫩茎",
+	"recipeingredient-item-pickledvegetable-petasitesjaponicus": "腌蜂斗菜嫩茎",
+	"recipeingredient-item-pickledvegetable-petasitesjaponicus-insturmentalcase": "腌蜂斗菜嫩茎",
+	"game:recipeingredient-item-pickledvegetable-petasitesjaponicus": "腌蜂斗菜嫩茎",
+	"game:recipeingredient-item-pickledvegetable-petasitesjaponicus-insturmentalcase": "腌蜂斗菜嫩茎",
+	"game:meal-ingredient-soup-primary-pickledvegetable-petasitesjaponicus": "腌蜂斗菜嫩茎",
+	"game:meal-ingredient-soup-secondary-pickledvegetable-petasitesjaponicus": "腌蜂斗菜嫩茎",
+	"game:meal-ingredient-stew-primary-pickledvegetable-petasitesjaponicus": "腌蜂斗菜嫩茎",
+	"game:meal-ingredient-stew-secondary-pickledvegetable-petasitesjaponicus": "腌蜂斗菜嫩茎",
+	"item-vegetable-puerariamontana": "葛根",
+	"recipeingredient-item-vegetable-puerariamontana": "葛根",
+	"recipeingredient-item-vegetable-puerariamontana-insturmentalcase": "葛根",
+	"game:recipeingredient-item-vegetable-puerariamontana": "葛根",
+	"game:recipeingredient-item-vegetable-puerariamontana-insturmentalcase": "葛根",
+	"game:meal-ingredient-soup-primary-vegetable-puerariamontana": "葛根",
+	"game:meal-ingredient-soup-secondary-vegetable-puerariamontana": "葛根",
+	"game:meal-ingredient-stew-primary-vegetable-puerariamontana": "葛根",
+	"game:meal-ingredient-stew-secondary-vegetable-puerariamontana": "葛根",
+	 "block-bigberrybush-lyciumbarbarum-empty": "枸杞",
+	"block-bigberrybush-lyciumbarbarum-flowering": "枸杞（开花）",
+	"block-bigberrybush-lyciumbarbarum-ripe": "枸杞（成熟）",
+	"blockdesc-bigberrybush-lyciumbarbarum-*": "学名：枸杞 Lycium barbarum",
+	"item-fruit-lyciumbarbarum": "枸杞子",
+	"itemdesc-fruit-lyciumbarbarum": "学名：枸杞 Lycium barbarum",
+	"lyciumbarbarum-in-jam-name": "枸杞子",
+	"recipeingredient-item-fruit-lyciumbarbarum": "枸杞子",
+	"recipeingredient-item-fruit-lyciumbarbarum-insturmentalcase": "枸杞子",
+	
+	"pie-single-floralzoneseastasiaticregion:fruit-lyciumbarbarum-raw": "生的枸杞子馅饼",
+	"pie-single-floralzoneseastasiaticregion:fruit-lyciumbarbarum-partbaked": "半熟的枸杞子馅饼",
+	"pie-single-floralzoneseastasiaticregion:fruit-lyciumbarbarum-perfect": "枸杞子馅饼",
+	"pie-single-floralzoneseastasiaticregion:fruit-lyciumbarbarum-charred": "烤焦的枸杞子馅饼",
+	
+	"pie-single-floralzoneseastasiaticregion:vegetable-luffaaegyptiaca-raw": "生的丝瓜馅饼",
+	"pie-single-floralzoneseastasiaticregion:vegetable-luffaaegyptiaca-partbaked": "半熟的丝瓜馅饼",
+	"pie-single-floralzoneseastasiaticregion:vegetable-luffaaegyptiaca-perfect": "丝瓜馅饼",
+	"pie-single-floralzoneseastasiaticregion:vegetable-luffaaegyptiaca-charred": "烤焦的丝瓜馅饼",
+	"pie-single-floralzoneseastasiaticregion:pickledvegetable-luffaaegyptiaca-raw": "生的腌丝瓜馅饼",
+	"pie-single-floralzoneseastasiaticregion:pickledvegetable-luffaaegyptiaca-partbaked": "半熟的腌丝瓜馅饼",
+	"pie-single-floralzoneseastasiaticregion:pickledvegetable-luffaaegyptiaca-perfect": "腌丝瓜馅饼",
+	"pie-single-floralzoneseastasiaticregion:pickledvegetable-luffaaegyptiaca-charred": "烤焦的腌丝瓜馅饼",
+	
+"item-soakedkudzu-soaked": "浸泡过的葛根",
+"item-soakedkudzu-dried": "晾干的葛根",
+
+"item-flour-puerariamontana": "葛根面粉",
+"item-dough-puerariamontana": "葛根面团",
+"item-bread-puerariamontana-partbaked": "半熟的葛根面包",
+"item-bread-puerariamontana-perfect": "葛根面包",
+"item-bread-puerariamontana-charred": "烤焦的葛根面包",
+	
+	"item-ciderportion-lyciumbarbarum": "枸杞子果酒",
+	"incontainer-item-ciderportion-lyciumbarbarum": "枸杞子果酒",
+	
+	"item-juiceportion-lyciumbarbarum": "枸杞子汁",
+	"incontainer-item-juiceportion-lyciumbarbarum": "枸杞子汁",
+	
+	"item-pressedmash-lyciumbarbarum-dry": "干燥的枸杞子碎块",
+	
+	"item-pressedmash-lyciumbarbarum-wet": "多汁的枸杞子碎块",
+	
+	"item-spiritportion-lyciumbarbarum": "枸杞子白兰地",
+	"incontainer-item-spiritportion-lyciumbarbarum": "枸杞子白兰地",
+	
+	"item-treeseed-abieskoreana": "朝鲜冷杉树种子",
+	"item-treeseed-acerginnala": "阿穆尔枫树种子",
+	"item-treeseed-ginkgobiloba": "银杏树种子",
+	"item-treeseed-metasequoiaglyptostroboides": "水杉树种子",
+	"item-treeseed-quercusserrata": "枹栎树种子",
+	"item-treeseed-trachycarpusfortunei": "棕榈树树种子",
+
+	"itemdesc-treeseed-abieskoreana": "学名：朝鲜冷杉 Abies koreana",
+	"itemdesc-treeseed-acerginnala": "学名：茶条槭 Acer ginnala",
+	"itemdesc-treeseed-ginkgobiloba": "学名：银杏 ginkg biloba",
+	"itemdesc-treeseed-metasequoiaglyptostroboides": "学名：水杉 Metasequoia glyptostroboides",
+	"itemdesc-treeseed-quercusserrata": "学名：枹栎 Quercus serrata",
+	"itemdesc-treeseed-trachycarpusfortunei": "学名：棕榈 Trachycarpus fortunei",
+	
+
+		"game:treeseed-planted-abieskoreana": "朝鲜冷杉树种子",
+	"game:treeseed-planted-acerginnala": "阿穆尔枫树种子",
+	"game:treeseed-planted-metasequoiaglyptostroboides": "水杉树种子",
+	"game:treeseed-planted-quercusserrata": "枹栎树种子",
+	"game:treeseed-planted-trachycarpusfortunei": "棕榈树树种子",
+
+	"item-clothes-neck-abieskoreana-seed-amulet": "朝鲜冷杉果护身符",
+	"item-clothes-neck-acerginnala-seed-amulet": "阿穆尔枫树种子护身符",
+	"item-clothes-neck-metasequoiaglyptostroboides-seed-amulet": "水杉锥果护身符",
+	"item-clothes-neck-quercusserrata-seed-amulet": "枹栎橡子护身符",
+	
+	"game:material-abieskoreana": "朝鲜冷杉",
+	"game:material-acerginnala": "阿穆尔枫",
+	"game:material-ginkgobiloba": "银杏",
+	"game:material-metasequoiaglyptostroboides": "水杉",
+	"game:material-quercusserrata": "枹栎",
+	"game:material-trachycarpusfortunei": "棕榈树",
+	
+	"block-leaves-*-abieskoreana": "朝鲜冷杉树叶",
+	"block-leaves-*-acerginnala": "阿穆尔枫树叶",
+	"block-leaves-*-ginkgobiloba": "银杏树叶",
+	"block-leaves-*-metasequoiaglyptostroboides": "水杉树叶",
+	"block-leaves-*-quercusserrata": "枹栎树叶",
+	"block-leaves-*-phyllostachysaurea": "罗汉竹树叶",
+	"block-leaves-*-phyllostachysedulis": "毛竹树叶",
+	"block-leaves-*-phyllostachysnigra": "紫竹树叶",
+	
+	"block-leavesbranchy-*-abieskoreana": "多枝的朝鲜冷杉树叶",
+	"block-leavesbranchy-*-acerginnala": "多枝的阿穆尔枫树叶",
+	"block-leavesbranchy-*-ginkgobiloba": "多枝的银杏树叶",
+	"block-leavesbranchy-*-metasequoiaglyptostroboides": "多枝的水杉树叶",
+	"block-leavesbranchy-*-quercusserrata": "多枝的枹栎树叶",
+	
+	"block-sapling-abieskoreana-*": "朝鲜冷杉树苗",
+	"block-sapling-acerginnala-*": "阿穆尔枫树苗",
+	"block-sapling-ginkgobiloba-*": "银杏树苗",
+	"block-sapling-metasequoiaglyptostroboides-*": "水杉树苗",
+	"block-sapling-phyllostachysaurea-*": "罗汉竹树苗",
+	"block-sapling-phyllostachysedulis-*": "毛竹树苗",
+	"block-sapling-phyllostachysnigra-*": "紫竹树苗",
+	"block-sapling-quercusserrata-*": "枹栎树苗",
+	"block-sapling-trachycarpusfortunei-*": "棕榈树树苗",
+
+	
+	
+	
+	"block-lognarrow-*-abieskoreana-ud": "朝鲜冷杉原木",
+	"block-log-placed-ginkgobiloba-ud": "银杏原木",
+	"block-bamboo-*-phyllostachysaurea-segment1": "罗汉竹竹节",
+	"block-bamboo-*-phyllostachysaurea-segment2": "罗汉竹竹节",
+	"block-bamboo-*-phyllostachysaurea-segment3": "罗汉竹树叶",
+	"block-bamboo-*-phyllostachysedulis-segment1": "毛竹竹节",
+	"block-bamboo-*-phyllostachysedulis-segment2": "毛竹竹节",
+	"block-bamboo-*-phyllostachysedulis-segment3": "毛竹树叶",
+	"block-bamboo-*-phyllostachysnigra-segment1": "紫竹竹节",
+	"block-bamboo-*-phyllostachysnigra-segment2": "紫竹竹节",
+	"block-bamboo-*-phyllostachysnigra-segment3": "紫竹树叶",
+	"block-lognarrow-*-trachycarpusfortunei-ud": "棕榈树原木",
+	
+	"block-logquad-placed-abieskoreana-ud": "朝鲜冷杉四分原木",	
+	"block-logquad-placed-phyllostachysedulis-ud": "毛竹四分竹节", 
+	
+	"block-logquad-barkedcorner-abieskoreana-north": "朝鲜冷杉四分原木转角",
+	"block-logquad-barkedcorner-phyllostachysedulis-north": "毛竹四分竹节转角",
+
+	"block-debarkedlog-ginkgobiloba-*": "银杏去皮原木",
+
+	"item-plank-ginkgobiloba": "银杏木材",
+
+	"block-glasspane-leaded-ginkgobiloba-*": "银杏木边框含铅玻璃板",
+	
+	"block-wood-ginkgobiloba-crate": "银杏木板条箱 ({0})",
+	
+	"block-planks-ginkgobiloba": "银杏木板",
+
+	"block-planks-ginkgobiloba-*": "银杏木板",
+	
+	"block-plankslab-ginkgobiloba-*": "银杏木台阶",
+	
+	"block-plankstairs-ginkgobiloba-*": "银杏木楼梯",
+	
+	"block-wildbeehive-inlog-ginkgobiloba": "银杏树中的野生蜂巢",
+
+	"block-woodenfence-ginkgobiloba-*": "银杏木栅栏",
+	
+	"block-woodenfencegate-ginkgobiloba-n-closed-*": "银杏木栅栏门",
+	
+	"block-roughhewnfence-ginkgobiloba-*": "粗制银杏木栅栏",
+	
+	"block-roughhewnfencegate-ginkgobiloba-n-closed-*": "粗制银杏木栅栏门",
+	
+	"item-boat-raft-ginkgobiloba": "银杏木筏",
+	
+	"item-creature-boat-raft-ginkgobiloba": "银杏木筏",
+	
+	"item-oar-crude-ginkgobiloba": "简易银杏木浆",
+	
+	"block-supportbeam-ginkgobiloba": "银杏支撑梁",
+
+
+}
