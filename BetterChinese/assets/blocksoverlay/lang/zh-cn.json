@@ -1,0 +1,47 @@
+{
+    "blockselector-dialog-title": "选择要叠加显示的目标",
+    "colorpicker-dialog-title": "颜色选择器",
+    "label-scan-radius": "扫描半径（方块）",
+    "label-label-radius": "标签半径（方块）",
+    "label-search": "搜索方块或实体",
+    "label-search-detail": "按资源代码搜索可精确匹配！",
+    "label-search-button": "搜索",
+    "label-saved-groups-button": "已保存分组",
+    "label-search-results": "搜索结果",
+    "label-search-results-with-count": "搜索结果（{0}）",
+    "label-active-results": "已激活目标",
+    "label-show-entity-rays": "显示实体射线？",
+    "label-show-debug": "在覆盖层上显示调试信息？",
+    "label-scan-button": "扫描",
+
+    "label-search-result-single": "{0}",
+    "label-search-result-multiple": "{0}（{1} 个ID）",
+
+    "placeholder-search": "方块/实体名称或资源代码",
+    "placeholder-range": "# 方块",
+
+    "savedgroups-dialog-title": "管理已保存分组",
+    "rename-dialog-title": "重命名分组",
+    "label-select-group": "选择分组",
+    "label-rename": "重命名",
+    "label-save": "保存",
+    "label-cancel": "取消",
+    "label-delete-group": "删除分组",
+    "label-new-group": "新建分组",
+    "label-empty-group-list": "&lt;无分组&gt;",
+    "label-move-group-up": "上移所选分组",
+    "label-move-group-down": "下移所选分组",
+
+    "label-scan-error": "扫描时出错：{0}",
+    "label-groups-found": "找到的分组：{0}",
+    "label-scanstep-scanning-chunks": "正在扫描区块 {0}（{1} 个区块）（{2}）",
+    "label-scanstep-building-groups": "正在构建方块分组 {0}（{1} 个方块）（{2}）",
+    "label-scanstep-generate-mesh": "正在重建方块网格 {0}（{1} 个分组）（{2}）",
+    "label-scanstep-hollowing-groups": "正在空心化大型分组 {0}（{1} 个分组）（{2}）",
+    "label-searching-for-things": "正在搜索 {0} 个{1}：",
+    "label-thing": "对象",
+    "label-things": "对象",
+
+    "keybind-show-overlay": "显示方块覆盖层",
+    "keybind-show-selector": "显示方块选择器"
+}

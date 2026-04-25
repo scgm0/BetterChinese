@@ -100,3 +100,4 @@
 95. `Cartwright´s Caravan/Cartwright的商队` [1.8.0](https://mods.vintagestory.at/cartwrightscaravan#tab-description)
 96. `Bricklayers/泥匠工艺` [3.1.6](https://mods.vintagestory.at/bricklayers)
 97. `PlayerListRevived / 玩家列表复活版` [2.3.8](https://mods.vintagestory.at/show/mod/38228)
+98. `Block Overlay / 方块覆盖层` [4.10.3](https://mods.vintagestory.at/xray)
