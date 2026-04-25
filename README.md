@@ -99,3 +99,4 @@
 94. `Floral Zones: East Asiatic Region/花卉区：东亚地区` [1.0.18](https://mods.vintagestory.at/floralzoneseastasiaticregion)
 95. `Cartwright´s Caravan/Cartwright的商队` [1.8.0](https://mods.vintagestory.at/cartwrightscaravan#tab-description)
 96. `Bricklayers/泥匠工艺` [3.1.6](https://mods.vintagestory.at/bricklayers)
+97. `PlayerListRevived / 玩家列表复活版` [2.3.8](https://mods.vintagestory.at/show/mod/38228)
