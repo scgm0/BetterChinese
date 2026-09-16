@@ -4,6 +4,15 @@
 
   "missing-permission": "你没有权限控制服务器配置。",
 
+  // IMM Descriptions
+  "Config.Hint.Server": "服务器端流血规则。",
+  "Config.Hint.DOT": "实体流血时可选施加的生命值伤害。",
+  "Config.Hint.Client": "本地视觉效果开关。",
+  "Config.Hint.Duration": "本地血液粒子计时。",
+  "Config.Hint.Amount": "本地粒子数量。",
+  "Config.Hint.Size": "本地粒子大小。",
+  "Config.Hint.Extra": "本地粒子行为和颜色。",
+
   // Server Settings
   "Config.Setting.CausedByPlayer": "伤害来源为玩家",
   "Config.Hint.CausedByPlayer": "仅玩家造成的伤害触发流血。",
@@ -73,5 +82,9 @@
   "Config.Setting.RainbowBlood": "彩虹粒子",
   "Config.Hint.RainbowBlood": "彩虹色的血液",
   "Config.Setting.BloodParticlesColor": "粒子颜色",
-  "Config.Hint.BloodParticlesColor": "粒子的颜色。"
+  "Config.Hint.BloodParticlesColor": "粒子的颜色。",
+  "Config.Hint.BloodParticlesColor.Red": "粒子颜色：红色",
+  "Config.Hint.BloodParticlesColor.Green": "粒子颜色：绿色",
+  "Config.Hint.BloodParticlesColor.Blue": "粒子颜色：蓝色",
+  "Config.Hint.BloodParticlesColor.Transparency": "粒子颜色：透明度"
 }
