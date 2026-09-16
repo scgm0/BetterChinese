@@ -148,7 +148,7 @@
 143. `Achievements / 成就` [1.1.2](https://mods.vintagestory.at/achievements)
 144. `Simple Starvation / 简单饥饿` [1.1.1](https://mods.vintagestory.at/simplestarvation)
 145. `Smoke and Scent / 烟雾与气味` [2.2.0](https://mods.vintagestory.at/show/mod/52819)
-146. `Footprints / 足迹` [1.2.5](https://mods.vintagestory.at/footprints)
+146. `Footprints / 足迹` [1.2.9](https://mods.vintagestory.at/footprints)
 147. `BloodTrail / 血迹` [1.2.5](https://mods.vintagestory.at/bloodtrail)
 148. `Tool System Overhaul / 工具系统大修` [2.12.0](https://mods.vintagestory.at/nodeathtoaxe)
 149. `Downed / 倒下` [2.7.4](https://mods.vintagestory.at/downed)

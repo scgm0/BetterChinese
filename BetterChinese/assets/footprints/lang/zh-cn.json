@@ -1,96 +1,111 @@
 {
-    "footprints-server": "足迹（服务器）",
-    "footprints-client": "足迹（客户端）",
+  "footprints-server": "足迹（服务器）",
+  "footprints-client": "足迹（客户端）",
 
-    "missing-permission": "你没有权限控制服务器配置。",
+  "missing-permission": "你没有权限控制服务器配置。",
 
-    // Server Settings
-    "Config.Setting.AffectPlayer": "影响玩家",
-    "Config.Hint.AffectPlayer": "为玩家启用足迹。",
-    // Tab -> Partial Controlled
-    "Config.Setting.Tab.PartialControlled": "部分服务器控制 - （客户端可取消订阅）",
-    "Config.Setting.AffectAnimals": "影响动物",
-    "Config.Hint.AffectAnimals": "为动物启用足迹。",
-    "Config.Setting.BroadcastServerConfigs": "向客户端广播配置",
-    "Config.Hint.BroadcastServerConfigs": "启用后与所有玩家共享以下配置。（需要玩家重新加入）",
-
-
-    // Client Settings
-    "Config.Setting.FootprintEffect": "足迹效果",
-    "Config.Hint.FootprintEffect": "关闭则本地禁用模组。",
-    "Config.Setting.DebugLogging": "调试日志",
-    "Config.Hint.DebugLogging": "将调试信息记录到控制台。",
-    "Config.Setting.AcceptServerConfig": "接受服务器配置",
-    "Config.Hint.AcceptServerConfig": "允许服务器覆盖你的本地配置（例如地表材质白名单）。关闭以保留自己的配置。",
+  
+  // IMM Descriptions
+  "Config.Description.Client": "本地开关和基础行为。",
+  "Config.Description.Rendering": "本地渲染距离、限制和视觉调整。",
+  "Config.Description.Players": "玩家的本地足迹行为。",
+  "Config.Description.Lores": "传说生物的本地足迹设置。",
+  "Config.Description.Animals": "动物的本地足迹行为。",
+  "Config.Description.Extras": "高级过滤和白名单。",
+  "Config.Description.Server": "服务器范围的全局足迹开关。",
+  "Config.Description.PartialControlled": "可选择广播给客户端的配置。",
+  "Config.Description.PlayersServer": "服务器范围的玩家足迹寿命。",
+  "Config.Description.AnimalsServer": "服务器范围的动物足迹寿命。",
+  "Config.Description.ExtrasServer": "服务器范围的高级列表。",
 
 
-    // Tab -> Rendering
-    "Config.Setting.Tab.Rendering": "渲染",
-    "Config.Setting.LowResolution": "低分辨率",
-    "Config.Setting.FootprintOpacity": "足迹可见度（不透明度）",
-    "Config.Hint.FootprintOpacity": "调整足迹的深浅或透明度。（数值越高越不透明）",
-    "Config.Hint.LowResolution": "使用低分辨率纹理以获得略微更好的性能。",
-    "Config.Setting.RenderDistance": "渲染距离（格数）",
-    "Config.Hint.RenderDistance": "足迹可见的最大距离。",
-    "Config.Setting.MaxFootprints": "最大足迹数",
-    "Config.Hint.MaxFootprints": "内存中存储的最大足迹数量。",
-    "Config.Setting.MaxVisibleFootprints": "最大可见足迹数",
-    "Config.Hint.MaxVisibleFootprints": "同时渲染的最大足迹数量。",
-    "Config.Setting.MinimalDistance": "足迹间最小距离（格数）",
-    "Config.Hint.MinimalDistance": "足迹纹理之间的最小距离。（增大可防止重叠并提高性能）",
-    "Config.Setting.RequireSneaking": "需要潜行",
-    "Config.Hint.RequireSneaking": "只有玩家潜行时足迹才可见。",
-    "Config.Setting.SneakFadeInSpeed": "潜行渐入时长",
-    "Config.Hint.SneakFadeInSpeed": "开始潜行后足迹完全出现所需的时间（秒）。",
-    "Config.Setting.SneakFadeOutSpeed": "潜行渐出时长",
-    "Config.Hint.SneakFadeOutSpeed": "停止潜行后足迹完全消失所需的时间（秒）。",
+  // Server Settings
+  "Config.Setting.AffectPlayer": "影响玩家",
+  "Config.Hint.AffectPlayer": "为玩家启用足迹。",
+  // Tab -> Partial Controlled
+  "Config.Setting.Tab.PartialControlled": "部分服务器控制 - （客户端可取消订阅）",
+  "Config.Setting.AffectAnimals": "影响动物",
+  "Config.Hint.AffectAnimals": "为动物启用足迹。",
+  "Config.Setting.BroadcastServerConfigs": "向客户端广播配置",
+  "Config.Hint.BroadcastServerConfigs": "启用后与所有玩家共享以下配置。（需要玩家重新加入）",
 
 
-    // Tab -> Players
-    "Config.Setting.Tab.Players": "玩家",
-    "Config.Setting.TogglePlayers": "启用玩家足迹",
-    "Config.Hint.TogglePlayers": "显示玩家的足迹。",
-    "Config.Setting.ToggleWhenSneaking": "潜行时生成足迹",
-    "Config.Hint.ToggleWhenSneaking": "玩家潜行时启用足迹生成。",
-    "Config.Setting.PlayerFootprintLifespan": "玩家足迹寿命（游戏内小时）",
-    "Config.Hint.PlayerFootprintLifespan": "玩家足迹消失前的持续时间。",
-    "Config.Setting.CustomPlayerPrints": "自定义足迹纹理",
-    "Config.Hint.CustomPlayerPrints": "启用后将使用 ./custom.png 作为玩家足迹纹理。（需要重启）",
-    "Config.Setting.CustomPlayerTextureHeight": "纹理高度",
-    "Config.Hint.CustomPlayerTextureHeight": "自定义足迹纹理的高度。",
-    "Config.Setting.CustomPlayerTextureWidth": "纹理宽度",
-    "Config.Hint.CustomPlayerTextureWidth": "自定义足迹纹理的宽度。",
-
-    // Tap -> Lores
-    "Config.Setting.Tab.Lores": "传说生物",
-    "Config.Setting.ToggleLoreMonster": "启用传说生物足迹",
-    "Config.Hint.ToggleLoreMonster": "显示与传说相关的生物足迹。",
-
-    // Tab -> Animals
-    "Config.Setting.Tab.Animals": "动物",
-    "Config.Setting.ToggleAnimals": "启用动物足迹",
-    "Config.Hint.ToggleAnimals": "显示动物的足迹。",
-    "Config.Setting.ToggleDomesticated": "包含驯化动物",
-    "Config.Hint.ToggleDomesticated": "显示驯化动物的足迹。（驯化度 > 0）（需要重启）",
-    "Config.Setting.BabySize": "启用幼崽足迹",
-    "Config.Hint.BabySize": "为幼崽动物显示较小的足迹。（x0.75）| 关闭则显示正常大小。",
-    "Config.Setting.AnimalFootprintLifespan": "动物足迹寿命（游戏内小时）",
-    "Config.Hint.AnimalFootprintLifespan": "动物足迹消失前的持续时间。",
-    "Config.Setting.MinimalStepDistance": "最小步幅距离（米）",
-    "Config.Hint.MinimalStepDistance": "足迹之间的基础距离；会加上实体行为中的 `stepDistance` 属性以及一些随机值。",
+  // Client Settings
+  "Config.Setting.FootprintEffect": "足迹效果",
+  "Config.Hint.FootprintEffect": "关闭则本地禁用模组。",
+  "Config.Setting.DebugLogging": "调试日志",
+  "Config.Hint.DebugLogging": "将调试信息记录到控制台。",
+  "Config.Setting.AcceptServerConfig": "接受服务器配置",
+  "Config.Hint.AcceptServerConfig": "允许服务器覆盖你的本地配置（例如地表材质白名单）。关闭以保留自己的配置。",
 
 
-    // Tab -> Extras
-    "Config.Setting.Tab.Extras": "附加",
-    "Config.Hint.Tab.Extras": "高级配置",
-    "Config.Setting.SurfaceMaterials": "地表材质白名单",
-    "Config.Hint.SurfaceMaterials": "有效的足迹地表材质（方块代码）列表。[使用 StartsWith，不支持正则表达式]",
-    "Config.Setting.ToggleAnimalsWhitelist": "使用动物白名单",
-    "Config.Hint.ToggleAnimalsWhitelist": "启用后按下表过滤。（可能需要一段时间生效）",
-    "Config.Setting.AnimalsWhitelist": "动物白名单",
-    "Config.Hint.AnimalsWhitelist": "有效的动物（实体代码）列表。[使用 StartsWith，不支持正则表达式]",
-    "RemoveMaterials": "移除材质",
-    "AddMaterials": "添加材质",
-    "RemoveAnimals": "移除动物",
-    "AddAnimals": "添加动物"
+  // Tab -> Rendering
+  "Config.Setting.Tab.Rendering": "渲染",
+  "Config.Setting.LowResolution": "低分辨率",
+  "Config.Setting.FootprintOpacity": "足迹可见度（不透明度）",
+  "Config.Hint.FootprintOpacity": "调整足迹的深浅或透明度。（数值越高越不透明）",
+  "Config.Hint.LowResolution": "使用低分辨率纹理以获得略微更好的性能。",
+  "Config.Setting.RenderDistance": "渲染距离（格数）",
+  "Config.Hint.RenderDistance": "足迹可见的最大距离。",
+  "Config.Setting.MaxFootprints": "最大足迹数",
+  "Config.Hint.MaxFootprints": "内存中存储的最大足迹数量。",
+  "Config.Setting.MaxVisibleFootprints": "最大可见足迹数",
+  "Config.Hint.MaxVisibleFootprints": "同时渲染的最大足迹数量。",
+  "Config.Setting.MinimalDistance": "足迹间最小距离（格数）",
+  "Config.Hint.MinimalDistance": "足迹纹理之间的最小距离。（增大可防止重叠并提高性能）",
+  "Config.Setting.RequireSneaking": "需要潜行",
+  "Config.Hint.RequireSneaking": "只有玩家潜行时足迹才可见。",
+  "Config.Setting.SneakFadeInSpeed": "潜行渐入时长",
+  "Config.Hint.SneakFadeInSpeed": "开始潜行后足迹完全出现所需的时间（秒）。",
+  "Config.Setting.SneakFadeOutSpeed": "潜行渐出时长",
+  "Config.Hint.SneakFadeOutSpeed": "停止潜行后足迹完全消失所需的时间（秒）。",
+
+
+  // Tab -> Players
+  "Config.Setting.Tab.Players": "玩家",
+  "Config.Setting.TogglePlayers": "启用玩家足迹",
+  "Config.Hint.TogglePlayers": "显示玩家的足迹。",
+  "Config.Setting.ToggleWhenSneaking": "潜行时生成足迹",
+  "Config.Hint.ToggleWhenSneaking": "玩家潜行时启用足迹生成。",
+  "Config.Setting.PlayerFootprintLifespan": "玩家足迹寿命（游戏内小时）",
+  "Config.Hint.PlayerFootprintLifespan": "玩家足迹消失前的持续时间。",
+  "Config.Setting.CustomPlayerPrints": "自定义足迹纹理",
+  "Config.Hint.CustomPlayerPrints": "启用后将使用 ./custom.png 作为玩家足迹纹理。（需要重启）",
+  "Config.Setting.CustomPlayerTextureHeight": "纹理高度",
+  "Config.Hint.CustomPlayerTextureHeight": "自定义足迹纹理的高度。",
+  "Config.Setting.CustomPlayerTextureWidth": "纹理宽度",
+  "Config.Hint.CustomPlayerTextureWidth": "自定义足迹纹理的宽度。",
+
+  // Tap -> Lores
+  "Config.Setting.Tab.Lores": "传说生物",
+  "Config.Setting.ToggleLoreMonster": "启用传说生物足迹",
+  "Config.Hint.ToggleLoreMonster": "显示与传说相关的生物足迹。",
+
+  // Tab -> Animals
+  "Config.Setting.Tab.Animals": "动物",
+  "Config.Setting.ToggleAnimals": "启用动物足迹",
+  "Config.Hint.ToggleAnimals": "显示动物的足迹。",
+  "Config.Setting.ToggleDomesticated": "包含驯化动物",
+  "Config.Hint.ToggleDomesticated": "显示驯化动物的足迹。（驯化度 > 0）（需要重启）",
+  "Config.Setting.BabySize": "启用幼崽足迹",
+  "Config.Hint.BabySize": "为幼崽动物显示较小的足迹。（x0.75）| 关闭则显示正常大小。",
+  "Config.Setting.AnimalFootprintLifespan": "动物足迹寿命（游戏内小时）",
+  "Config.Hint.AnimalFootprintLifespan": "动物足迹消失前的持续时间。",
+  "Config.Setting.MinimalStepDistance": "最小步幅距离（米）",
+  "Config.Hint.MinimalStepDistance": "足迹之间的基础距离；会加上实体行为中的 `stepDistance` 属性以及一些随机值。",
+
+
+  // Tab -> Extras
+  "Config.Setting.Tab.Extras": "附加",
+  "Config.Hint.Tab.Extras": "高级配置",
+  "Config.Setting.SurfaceMaterials": "地表材质白名单",
+  "Config.Hint.SurfaceMaterials": "有效的足迹地表材质（方块代码）列表。[使用 StartsWith，不支持正则表达式]",
+  "Config.Setting.ToggleAnimalsWhitelist": "使用动物白名单",
+  "Config.Hint.ToggleAnimalsWhitelist": "启用后按下表过滤。（可能需要一段时间生效）",
+  "Config.Setting.AnimalsWhitelist": "动物白名单",
+  "Config.Hint.AnimalsWhitelist": "有效的动物（实体代码）列表。[使用 StartsWith，不支持正则表达式]",
+  "RemoveMaterials": "移除材质",
+  "AddMaterials": "添加材质",
+  "RemoveAnimals": "移除动物",
+  "AddAnimals": "添加动物"
 }
