@@ -1,0 +1,113 @@
+{
+
+    "game:creaturegroup-horse-ferus": "费鲁斯",
+    "game:tabname-equus": "马属：马",
+
+	"equusferus:item-creature-horse-juvenile-female-ferus": "费鲁斯幼年母驹",
+	"equusferus:item-creature-horse-juvenile-male-ferus": "费鲁斯幼年公驹",
+	"equusferus:item-creature-horse-yearling-female-ferus": "费鲁斯一岁母驹",
+	"equusferus:item-creature-horse-yearling-male-ferus": "费鲁斯一岁公驹",
+	"equusferus:item-creature-horse-adult-female-ferus": "费鲁斯成年母马",
+	"equusferus:item-creature-horse-adult-male-ferus": "费鲁斯成年公马",
+	"equusferus:item-creature-horse-baby-female-ferus": "费鲁斯母驹",
+	"equusferus:item-creature-horse-baby-male-ferus": "费鲁斯公驹",
+
+    "equusferus:item-creature-wildhorse-juvenile-female-ferus": "野生费鲁斯幼年母驹",
+	"equusferus:item-creature-wildhorse-juvenile-male-ferus": "野生费鲁斯幼年公驹",
+	"equusferus:item-creature-wildhorse-yearling-female-ferus": "野生费鲁斯一岁母驹",
+	"equusferus:item-creature-wildhorse-yearling-male-ferus": "野生费鲁斯一岁公驹",
+	"equusferus:item-creature-wildhorse-adult-female-ferus": "野生费鲁斯母马",
+	"equusferus:item-creature-wildhorse-adult-male-ferus": "野生费鲁斯公马",
+	"equusferus:item-creature-wildhorse-baby-female-ferus": "野生费鲁斯母驹",
+	"equusferus:item-creature-wildhorse-baby-male-ferus": "野生费鲁斯公驹",
+
+
+	"equusferus:item-creature-unhandledhorse-adult-female-ferus": "未驯服的费鲁斯母马",
+	"equusferus:item-creature-unhandledhorse-adult-male-ferus": "未驯服的费鲁斯公马",
+
+	"equusferus:itemdesc-creature-unhandledhorse-adult-*-ferus": "一匹未驯服的费鲁斯马。<br>这种马无法在野外找到，只能由已驯服的费鲁斯马繁殖而来",
+	"equusferus:itemdesc-creature-wildhorse-adult-*-ferus": "一匹野生费鲁斯马。",
+	"equusferus:itemdesc-creature-horse-adult-*-ferus": "一匹已驯服的费鲁斯马。",
+	"equusferus:itemdesc-creature-horse-juvenile-*-ferus": "这种马无法在野外找到，只能由已驯服的费鲁斯马繁殖而来",
+	"equusferus:itemdesc-creature-horse-yearling-*-ferus": "这种马无法在野外找到，只能由已驯服的费鲁斯马繁殖而来",
+	"equusferus:itemdesc-creature-horse-baby-*-ferus": "这种马无法在野外找到，只能由已驯服的费鲁斯马繁殖而来",
+
+    "equusferus:item-dead-creature-*horse-adult-female-ferus": "费鲁斯母马（死亡）",
+    "equusferus:item-dead-creature-*horse-adult-male-ferus": "费鲁斯公马（死亡）",
+    "equusferus:item-dead-creature-horse-baby-female-ferus": "费鲁斯母驹（死亡）",
+    "equusferus:item-dead-creature-horse-baby-male-ferus": "费鲁斯公驹（死亡）",	
+	"equusferus:item-dead-creature-horse-juvenile-female-ferus": "费鲁斯幼年母驹（死亡）",
+	"equusferus:item-dead-creature-horse-juvenile-male-ferus": "费鲁斯幼年公驹（死亡）",
+	"equusferus:item-dead-creature-horse-yearling-female-ferus": "费鲁斯一岁母驹（死亡）",
+	"equusferus:item-dead-creature-horse-yearling-male-ferus": "费鲁斯一岁公驹（死亡）",
+
+    "game:prefixandcreature-horseadultfemaleferus": "一匹费鲁斯母马",
+    "game:prefixandcreature-horseadultmaleferus": "一匹费鲁斯公马",
+    "game:prefixandcreature-horsebabyfemaleferus": "一匹费鲁斯母驹",
+    "game:prefixandcreature-horsebabymaleferus": "一匹费鲁斯公驹",
+
+	"equusferus:item-bridle-hold": "费鲁斯马辔（轻衔铁）",
+	"equusferus:item-bridle-press": "费鲁斯马辔（勒衔）",
+    "equusferus:itemdesc-bridle-hold": "适用于精准的短距离移动",
+    "equusferus:itemdesc-bridle-press": "适用于长距离旅行",
+
+	"equusferus:item-pillion": "费鲁斯后鞍座",
+
+	"equusferus:item-saddle-black": "费鲁斯马鞍（黑色）",
+	"equusferus:item-saddle-blue": "费鲁斯马鞍（蓝色）",
+	"equusferus:item-saddle-brown": "费鲁斯马鞍（棕色）",
+	"equusferus:item-saddle-gray": "费鲁斯马鞍（灰色）",
+	"equusferus:item-saddle-green": "费鲁斯马鞍（绿色）",
+	"equusferus:item-saddle-orange": "费鲁斯马鞍（橙色）",
+	"equusferus:item-saddle-pink": "费鲁斯马鞍（粉色）",
+	"equusferus:item-saddle-plain": "费鲁斯马鞍（素色）",
+	"equusferus:item-saddle-purple": "费鲁斯马鞍（紫色）",
+	"equusferus:item-saddle-red": "费鲁斯马鞍（红色）",
+	"equusferus:item-saddle-white": "费鲁斯马鞍（白色）",
+	"equusferus:item-saddle-yellow": "费鲁斯马鞍（黄色）",
+
+  "setting-speedsettings": "速度设置：",
+  "setting-tradersettings": "交易设置：",
+  "setting-title-ferus": "费鲁斯：",
+  "setting-ferus": "费鲁斯",
+
+
+  "setting-stamina": "体力设置：",
+  "setting-maxstamina": "最大体力：",
+  "setting-staminaregen": "体力恢复",
+  "setting-speed": "移动速度",
+  "setting-turnspeed": "转向速度",
+  "setting-staminacost": "体力消耗：",
+
+  "setting-swimback": "后退游泳：",
+  "setting-swim": "游泳：",
+  "setting-turnspeed-tread": "游泳待机时的转向速度",
+  "setting-turnspeed-idle": "站立不动时的转向速度",
+  "setting-disableswimback": "禁用向后游泳",
+
+  "setting-walkback": "后退行走",
+  "setting-walk": "行走",
+  "setting-canter": "慢跑",
+  "setting-trot": "快步",
+  "setting-gallop": "疾驰",
+  "setting-swimstaminacost": "游泳时",
+
+  "setting-pregnancysettings": "怀孕设置：",
+  "setting-pregnancydays": "平均怀孕时长",
+  "setting-pregnancycooldown": "平均怀孕冷却时间",
+
+// Attachments Slots //
+  "creature-equusdestrier:*-selectionbox-NeckAP": "<br><font color='cornflowerblue'>• 提灯槽位 •</font>",
+  "creature-equusdestrier:*-selectionbox-MidAP": "<br><font color='cornflowerblue'>• 马鞍槽位 •</font>",
+  "creature-equusdestrier:*-selectionbox-BlanketAP": "<br><font color='cornflowerblue'>• 鞍毯槽位 •</font>",
+  "creature-equusdestrier:*-selectionbox-HeadAP": "<br><font color='cornflowerblue'>• 马辔槽位 •</font>",
+  "creature-equusdestrier:*-selectionbox-FaceAP": "<br><font color='cornflowerblue'>• 奖章槽位 •</font>",
+  "creature-equusdestrier:*-selectionbox-RearAP": "<br><font color='cornflowerblue'>• 铺盖/鞍囊槽位 •</font>",
+  "creature-equusdestrier:*-selectionbox-RearSideAP": "<br><font color='cornflowerblue'>• 侧袋槽位 •</font>",
+  "creature-equusdestrier:*-selectionbox-HoofAP": "<br><font color='cornflowerblue'>• 马蹄铁槽位 •</font>",
+  "creature-equusdestrier:*-selectionbox-RidingAP": "<br><font color='cornflowerblue'>• 骑手槽位 •</font>",
+}		
+
+
+
+
