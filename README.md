@@ -164,3 +164,4 @@
 159. `Chiseled Ground Placement / 凿面放置` [0.2.2](https://mods.vintagestory.at/chiseledgroundplacement)
 160. `Equus: Wild Horses 2.0 / 马属：野马 2.0` [1.0.6](https://mods.vintagestory.at/equusferus)
 161. `Soap and Lye Continued / 肥皂和碱液（续）` [2.1.2](https://mods.vintagestory.at/show/mod/44551)
+162. `BathTime / 沐浴时间` [1.4.1](https://mods.vintagestory.at/bathtime)
