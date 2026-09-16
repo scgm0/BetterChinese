@@ -1,0 +1,21 @@
+{
+  "block-water-archimedesscrew-straight": "水阿基米德螺旋泵",
+  "block-water-archimedesscrew-ported-north": "水阿基米德螺旋泵端盖",
+  "block-water-archimedesscrew-ported-east": "水阿基米德螺旋泵端盖",
+  "block-water-archimedesscrew-ported-south": "水阿基米德螺旋泵端盖",
+  "block-water-archimedesscrew-ported-west": "水阿基米德螺旋泵端盖",
+  "block-water-archimedesscrew-end-outlet-north": "水阿基米德螺旋泵端盖",
+  "block-water-archimedesscrew-end-outlet-east": "水阿基米德螺旋泵端盖",
+  "block-water-archimedesscrew-end-outlet-south": "水阿基米德螺旋泵端盖",
+  "block-water-archimedesscrew-end-outlet-west": "水阿基米德螺旋泵端盖",
+  "item-chutesection-lead": "铅管段",
+  "game:tabname-archimedes_screw": "阿基米德螺旋泵",
+  "archimedes-screw-requires-water": "需要进水口位置有水",
+  "archimedes-screw-endcap-context": "将端盖放入水中（进水口），或放在直螺旋泵或进水口顶部（出水口）",
+  "placefailure-archimedes-screw-requires-water": "需要进水口位置有水",
+  "placefailure-archimedes-screw-endcap-context": "将端盖放入水中（进水口），或放在直螺旋泵或进水口顶部（出水口）",
+  "game:placefailure-archimedes-screw-requires-water": "需要进水口位置有水",
+  "game:placefailure-archimedes-screw-endcap-context": "将端盖放入水中（进水口），或放在直螺旋泵或进水口顶部（出水口）",
+  "handbook-guide-title": "阿基米德螺旋泵指南",
+  "handbook-guide-text": "<strong>阿基米德螺旋泵</strong><br><i>一种用于提升水的动力泵。</i><br>阿基米德螺旋泵是一种垂直多方块结构，在进水口抽水，并在出水口产生单个水源方块。只要结构有效、有机械动力且进水口保持在水里，水源就会维持。如果螺旋泵失去动力、结构损坏或进水口离开水面，产生的水源方块就会被移除。<br><br><strong>组装基础</strong><br>从下往上建造：在底部放置端盖以形成进水口，在其上方堆叠直螺旋泵段，并在顶部放置端盖以形成出水口。有效的结构需要底部一个进水口、顶部一个出水口，并且它们之间只有直段。进水口可以无水放置，但只有进水口处有水时螺旋泵才会运行。你可以右键点击任何阿基米德螺旋泵部件来查看结构的当前状态。机械动力可以从结构的顶部或底部输入。"
+}
