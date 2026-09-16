@@ -1,0 +1,33 @@
+{
+  "debug-stamina-init": "[短途旅行] 正在为实体 {0} 初始化体力行为",
+  "debug-rideable-init": "[短途旅行] 正在为实体 {0} 初始化可骑乘行为",
+
+  "ingame-error-too-wild": "这只动物太野性，无法骑乘",
+  "ingame-error-no-entitysel": "未选择实体",
+  "ingame-error-disallowed-entity": "无法将 {0} 绑定到长笛，也许它们回应的是另一种乐器？",
+  "discovery-bound-entity": "长笛已绑定到可骑乘组：{0}",
+
+  "infotext-stamina-state": "体力：{0:0.##}/{1:0.##}",
+  "infotext-stamina-sprint-fatigue": "冲刺体力疲劳：{0}",
+  "infotext-stamina-swim-fatigue": "游泳体力疲劳：{0}",
+
+  "infotext-saddlebreaks-remaining": "剩余鞍具损坏次数：{0}",
+  "jaunt:infotext-saddlebreak-cooldown-days": "下次鞍具损坏：{0} 天",
+  "jaunt:infotext-saddlebreak-cooldown-hours": "下次鞍具损坏：{0} 小时",
+  "jaunt:infotext-saddlebreak-ready": "鞍具已可再次损坏",
+
+  "instrument-skill-bind": "绑定乐器",
+  "instrument-skill-play": "演奏乐器",
+
+  "groupcode-unbound": "未绑定",
+
+  "instrument-descappend-unbound": "未绑定到任何特定实体组",
+  "instrument-descappend-bound": "可用于呼唤 {0}",
+  "item-instrument-flute": "短途旅行 长笛",
+
+  "game:jaunt-percent-protection": "保护：{0}%",
+  "game:jaunt-walkspeed": "行走速度：{0}%",
+
+  "jaunt:armorerror": "穿着毯子时无法装备护甲！",
+  "jaunt:blanketerror": "穿着护甲时无法装备毯子！",
+}

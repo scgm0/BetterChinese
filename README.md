@@ -158,3 +158,4 @@
 153. `Ecosystem - Flora / 生态系统 - 植物群` [4.11.25](https://mods.vintagestory.at/ecosystemflora)
 154. `RKN Generic Crafting / RKN 通用制作` [1.0.0](https://mods.vintagestory.at/rkncrafting)
 155. `Commercially / 商业用途` [0.1.0](https://mods.vintagestory.at/commercially)
+156. `Jaunt: Entity Movement System / 短途旅行：实体移动系统` [3.2.0](https://mods.vintagestory.at/jaunt)
