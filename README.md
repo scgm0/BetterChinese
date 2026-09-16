@@ -172,3 +172,4 @@
 167. `SlowTox / 慢毒` [5.0.0](https://mods.vintagestory.at/slowtox)
 168. `Realistic Physiology and Survival Sim / 真实生理与生存模拟` [2.10.0](https://mods.vintagestory.at/show/mod/62766)
 169. `Natural Fertilizer / 天然肥料` [1.5.1](https://mods.vintagestory.at/naturalfertilizer)
+170. `Immersive Maps / 沉浸式地图` [1.2.1](https://mods.vintagestory.at/immersivemaps)
