@@ -165,3 +165,4 @@
 160. `Equus: Wild Horses 2.0 / 马属：野马 2.0` [1.0.6](https://mods.vintagestory.at/equusferus)
 161. `Soap and Lye Continued / 肥皂和碱液（续）` [2.1.2](https://mods.vintagestory.at/show/mod/44551)
 162. `BathTime / 沐浴时间` [1.4.1](https://mods.vintagestory.at/bathtime)
+163. `Logging Expanded / 伐木扩展` [0.3.6](https://mods.vintagestory.at/show/mod/55535)
