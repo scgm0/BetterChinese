@@ -1,0 +1,32 @@
+{
+    "game:incontainer-item-lyeportion": "碱液",
+    "game:item-lyeportion": "碱液",
+    "game:incontainer-item-soapportion-lye": "碱液皂",
+    "game:item-soapportion-lye": "碱液皂",
+    "game:incontainer-item-soapportion-honey": "蜂蜜皂",
+    "game:item-soapportion-honey": "蜂蜜皂",
+
+    "soapandlyecontinued:basics-title": "肥皂与碱液：肥皂基础",
+    "soapandlyecontinued:basics-text": "<font size=34 weight=bold align=center>只有肥皂和碱液</font><br><strong>木灰：</strong><br>你的制皂之旅始于在火坑中燃烧原木以产生<a href=\"handbook://item-soapandlyecontinued:woodash\">木灰</a>。它是生产<a href=\"handbook://item-soapandlyecontinued:lyeportion\">液体碱液</a>的主要原料。<br><br><strong>碱液：</strong><br>液体碱液可以代替石灰水用于浸泡动物生皮，或在桶中与脂肪混合制成<a href=\"handbook://item-soapandlyecontinued:soapbar-lye\">碱液皂块</a>。<br><br><strong>皂块：</strong><br>你将制作的第一种皂块是基础的碱液皂块。然后可以立即在桶中与水混合制成<a href=\"handbook://item-soapandlyecontinued:soapportion-lye\">液体碱液皂</a>，或用<a href=\"handbook://item-soapandlyecontinued:soapportion-honey\">蜂蜜</a>增香。<br><br><strong>蜂蜜皂：</strong><br><a href=\"handbook://item-soapandlyecontinued:soapbar-honey\">蜂蜜皂块</a>值得额外费力制作，因为由其制成的液体皂清洗物品所需升数更少。<br><br><strong>液体皂：</strong><br>液体皂可用于去除布料和皮革上的染料、去除布料上的媒染剂，以及清洁脏锅！<br><br><strong>钾碱：</strong><br>现在可以通过在火坑上的烹饪锅中煮沸水和木灰来制作<a href=\"handbook://item-potash\">钾肥</a>！<br><br><strong>兼容性：<br><br>烹饪火炮：</strong>液体皂可以装瓶，并从各种商人处出售或购买。<br><br><strong>食物搁架：</strong>皂块可以放在酒吧搁架上！<br><br><strong>野性工艺树木：</strong>在野性工艺树木更新之前，焦木和我的木灰之间暂时转换。<br><br><strong>羊毛：</strong>液体皂可用于清洗羊毛，并去除所有羊毛相关物品上的染料或媒染剂！",
+
+    "soapandlyecontinued:item-soapbar-lye": "碱液皂块",
+    "soapandlyecontinued:itemdesc-soapbar-lye": "可用蜂蜜增香，或用于制作液体皂。\n",
+
+    "soapandlyecontinued:item-soapbar-honey": "蜂蜜皂块",
+    "soapandlyecontinued:itemdesc-soapbar-honey": "它们努力工作，让你不必费力。\n",
+
+    "soapandlyecontinued:item-woodash": "木灰",
+    "soapandlyecontinued:itemdesc-woodash": "在桶中与水混合制成碱液。\n",
+
+    "soapandlyecontinued:incontainer-item-lyeportion": "碱液",
+    "soapandlyecontinued:item-lyeportion": "碱液",
+    "soapandlyecontinued:itemdesc-lyeportion": "浸泡生皮的石灰水替代品。可用于制作碱液皂块。\n",
+
+    "soapandlyecontinued:incontainer-item-soapportion-lye": "碱液皂",
+    "soapandlyecontinued:item-soapportion-lye": "碱液皂",
+    "soapandlyecontinued:itemdesc-soapportion-lye": "去除皮革和布料上的染料、布料上的媒染剂，或在桶中浸泡后清洁脏烹饪锅。\n",
+
+    "soapandlyecontinued:incontainer-item-soapportion-honey": "蜂蜜皂",
+    "soapandlyecontinued:item-soapportion-honey": "蜂蜜皂",
+    "soapandlyecontinued:itemdesc-soapportion-honey": "你记得把蜜蜂拿出来了，对吧？商人可能对一瓶这个感兴趣。\n"
+}
