@@ -169,4 +169,5 @@
 164. `True Archimedes Screw / 真阿基米德螺旋` [0.2.0](https://mods.vintagestory.at/truearchimedesscrew)
 165. `Forager's Gamble / 觅食者的赌局` [1.3.1](https://mods.vintagestory.at/foragersgamble)
 166. `Dead / 死人` [2.7.4](https://mods.vintagestory.at/dead)
-166. `SlowTox / 慢毒` [5.0.0](https://mods.vintagestory.at/slowtox)
+167. `SlowTox / 慢毒` [5.0.0](https://mods.vintagestory.at/slowtox)
+168. `Realistic Physiology and Survival Sim / 真实生理与生存模拟` [2.10.0](https://mods.vintagestory.at/show/mod/62766)
