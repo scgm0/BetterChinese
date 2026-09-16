@@ -161,3 +161,4 @@
 156. `Jaunt: Entity Movement System / 短途旅行：实体移动系统` [3.2.0](https://mods.vintagestory.at/jaunt)
 157. `Extreme Weathers [ALPHA] / 极端天气 [ALPHA]` [1.8.5](https://mods.vintagestory.at/show/mod/58501)
 158. `Chiseled Wall Mounting / 凿面墙挂` [0.3.2](https://mods.vintagestory.at/chiseledwallmounting)
+159. `Chiseled Ground Placement / 凿面放置` [0.2.2](https://mods.vintagestory.at/chiseledgroundplacement)
