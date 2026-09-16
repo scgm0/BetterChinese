@@ -159,3 +159,4 @@
 154. `RKN Generic Crafting / RKN 通用制作` [1.0.0](https://mods.vintagestory.at/rkncrafting)
 155. `Commercially / 商业用途` [0.1.0](https://mods.vintagestory.at/commercially)
 156. `Jaunt: Entity Movement System / 短途旅行：实体移动系统` [3.2.0](https://mods.vintagestory.at/jaunt)
+157. `Extreme Weathers [ALPHA] / 极端天气 [ALPHA]` [1.8.5](https://mods.vintagestory.at/show/mod/58501)
