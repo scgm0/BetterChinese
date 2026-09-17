@@ -1,0 +1,44 @@
+{
+  "item-saltcrystal-damp": "湿盐晶",
+  "item-saltcrystal-dry": "干盐晶",
+  "itemdesc-saltcrystal-damp": "从水中拧出来的。",
+  "itemdesc-saltcrystal-dry": "有些东西需要被碾碎。",
+
+  "item-handbooktitle-saltcrystal-dry": "盐加工",
+  "item-handbooktext-saltcrystal-dry":"此物品只在迷你坩埚或全尺寸坩埚中<a href=\"handbook://simmeringguide\">炖煮</a>时产出。平底锅太小，无法容纳所需的最低水量。",
+
+  "item-handbooktitle-saltcrystal-damp": "盐加工",
+  "item-handbooktext-saltcrystal-damp":"这些湿盐晶是通过将盐水或海水密封在桶中 10 天制成的。它们会在 14 天内变干，之后可以碾成粉末。",
+
+  "item-softresin": "一份新鲜树脂",
+  "incontainer-item-softresin": "新鲜树脂",
+  "game:incontainer-item-softresin": "新鲜树脂",
+  "incontainer-item-resin": "树脂",
+  "game:incontainer-item-resin": "树脂",
+  "itemdesc-softresin": "需要 1 升和 10 天硬化成<a href=\"handbook://item-efchefstricks:hardresin\">树脂</a>。",
+  "item-handbooktitle-softresin": "新鲜树脂",
+  "item-handbooktext-softresin": "通过将<a href=\"handbook://block-aculinaryartillery:spile-steel-north\">树液龙头</a>插入金合欢木或松木原木，并在其正下方放置液体容器来收集。<br>松树从三月到十一月产树脂。<br>金合欢树从四月到九月产树脂。",
+
+  "item-hardresin": "一份树脂",
+  "incontainer-item-hardresin": "硬化树脂",
+  "game:incontainer-item-hardresin": "硬化树脂",
+  "itemdesc-hardresin": "倒出一桶硬化树脂以获得<a href=\"handbook://item-resin\">树脂</a>。",
+  "item-handbooktitle-hardresin": "硬化树脂（液态）",
+  "item-handbooktext-hardresin": "已硬化但仍装在液体容器中的液态树脂。手持容器时，按 <hk>Ctrl</hk>+<icon name='rightmousebutton'></icon> 将其倒在地上，产生一块<a href=\"handbook://item-resin\">树脂</a>。",
+
+  "item-breadcrumbfeed" : "面包糠动物饲料",
+  "itemdesc-breadcrumbfeed": "由各种面包糠组成的饲料。",
+  "item-handbooktitle-breadcrumbfeed": "面包糠动物饲料",
+  "item-handbooktext-breadcrumbfeed": "当周围漂浮着太多类型的面包糠时，这是理想的制作食物，虽然对天使不可食用。许多动物会吃它，使其成为维持牲畜种群的非常便宜的饲料选择。",
+  
+  "item-washedeggshell": "洗净的蛋壳",
+  "itemdesc-washedeggshell": "用水净化，准备承受压力。",
+  "item-handbooktitle-washedeggshell": "洗净的蛋壳",
+  "item-handbooktext-washedeggshell": "浸泡后，这些蛋壳失去了许多营养。然而，这种损失使蛋壳更容易研磨并利用其中残留的石灰。",
+
+  "efchefstricksguide-title": "食品扩展：厨师技巧",
+  "efchefstricksguide-text": "<strong>食品扩展：厨师技巧</strong><br><i>知识就是力量，而力量会烹饪。</i><br><strong>需要‘烹饪厨具’和‘食品扩展：核心’模组才能运行</strong><br><br><strong>简介</strong><br>食品扩展为思想开放的人添加了一些非烹饪用途的物品和工具。本指南将帮助你更好地利用厨房，让你的生活更轻松！<br><br><strong>面包糠饲料</strong><br>面包糠现在可以放入制作网格中制作<a href=\"handbook://item-efchefstricks:breadcrumbfeed\">面包糠动物饲料</a>，它不是很有营养，但可以相当丰富。<br><br><strong>油的乐趣</strong><br><a href=\"handbook://item-expandedfoods:foodoilportion-rice\">食用油</a>在食品扩展中有多种制作方式，并且除了烹饪之外还有一些关键用途：<br>- 可用于制作<a href=\"handbook://block-angledgears-s\">斜齿轮</a>、<a href=\"handbook://block-clutch-north\">离合器</a>、<a href=\"handbook://block-windmillrotor-wood-north\">传动装置</a>、<a href=\"handbook://block-windmillrotor-wood-north\">风车转子</a>、<a href=\"handbook://block-woodenaxle-ud\">木轴</a>和<a href=\"handbook://block-woodentoggle-ns\">木开关</a>。<br>- 可与树脂或蜂蜡和泥炭结合制作<a href=\"handbook://item-candle\">蜡烛。</a><br>猪油可以在这些配方中替代油。<br><br><strong><a href=\"handbook://item-resin\">树脂生产</a></strong><br><a href=\"handbook://item-efchefstricks:softresin\">新鲜树脂</a>可以用<a href=\"handbook://block-aculinaryartillery:spile-steel-north\">树液龙头</a>从三月到十一月的松树；或四月到九月的金合欢树收集。给它时间硬化，然后从容器中倒出以获得树脂。<br><br><strong><a href=\"handbook://item-salt\">盐生产</a></strong><br>在桶中密封 10 升海水或 5 升盐水制成<a href=\"handbook://item-efchefstricks:saltcrystal-damp\">湿盐晶</a>。你也可以煮沸相同量以获得<a href=\"handbook://item-efchefstricks:saltcrystal-dry\">干盐晶</a>。你可以在桶中密封 25 升水和 1 块岩盐，输出 25 升盐水，如果你完全优化过程，岩盐价值 2.5 份盐。湿盐晶必须干燥成干盐晶。干盐晶可以在石磨中研磨制成盐。<br><br><strong><a href=\"handbook://item-efchefstricks:washedeggshell\">洗净的蛋壳</a></strong><br>有一堆不知道该怎么处理的蛋壳？动物吃腻了？在桶中用 1 升水密封 8 个蛋壳来清洗它们。1 捆洗净的蛋壳可制作 1 把石灰。",
+
+  "aculinaryartillery:block-handbooktext-spile": "一种金属钉，可从各种树木中引出液体。树木是否产液体取决于一年中的时间，因为树木在特定季节产生更多或更少的树液、树胶或花蜜。在树上打孔会在树皮上造成一个小伤口，使树液像血液一样流动，尽管很慢。<br>它可以产出<a href=\"handbook://item-expandedfoods:birchsapportion\">桦树汁</a>或<a href=\"handbook://item-expandedfoods:maplesapportion\">枫树汁</a>，或<a href=\"handbook://item-efchefstricks:softresin\">树脂</a>——取决于树木。",
+  "game:item-handbooktext-resin": "树脂被发现从松树和金合欢树的<a href=\"handbook://block-log-resin-pine-ud\">树干</a>中渗出。松树几乎可以在所有最不宜居和极端气候之外找到，而金合欢树只在干燥的热带气候中找到。树脂也是<a href=\"handbook://item-glueportion-pitch-hot\">沥青胶</a>的成分。<br><br><a href=\"handbook://item-efchefstricks:softresin\">液态树脂</a>可以使用<a href=\"handbook://block-aculinaryartillery:spile-steel-north\">树液龙头</a>从金合欢/松树收集。<br>松树从三月到十一月产树脂。<br>金合欢树从四月到九月产树脂。"
+}
