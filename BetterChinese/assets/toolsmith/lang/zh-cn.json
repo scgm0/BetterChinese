@@ -62,6 +62,16 @@
 	"toolsmith:item-whetstone-andesite": "安山岩磨刀石",
 	"toolsmith:item-whetstone-basalt": "玄武岩磨刀石",
 	"toolsmith:item-whetstone-peridotite": "橄榄岩磨刀石",
+	"toolsmith:item-whetstone-diorite": "闪长岩磨刀石",
+	"toolsmith:item-whetstone-gabbro": "辉长岩磨刀石",
+	"toolsmith:item-whetstone-quartzite": "石英岩磨刀石",
+	"toolsmith:item-whetstone-jade": "玉石磨刀石",
+	"toolsmith:item-whetstone-jasper": "碧玉磨刀石",
+	"toolsmith:item-whetstone-komatiite": "科马提岩磨刀石",
+	"toolsmith:item-whetstone-monzonite": "二长岩磨刀石",
+	"toolsmith:item-whetstone-pyroxenite": "辉石岩磨刀石",
+	"toolsmith:item-whetstone-serpentinite": "蛇纹岩磨刀石",
+	"toolsmith:item-whetstone-syenite": "正长岩磨刀石",
 
 	"toolsmith:item-tinkertoolparts": "工具头与手柄组合",
 
@@ -69,6 +79,9 @@
 	"toolsmith:block-grindstone-sandstone-north": "砂岩砂轮",
 	"toolsmith:block-grindstone-shale-north": "页岩砂轮",
 	"toolsmith:block-grindstone-andesite-north": "安山岩砂轮",
+	"toolsmith:block-grindstone-diorite-north": "闪长岩砂轮",
+	"toolsmith:block-grindstone-gabbro-north": "辉长岩砂轮",
+	"toolsmith:block-grindstone-quartzite-north": "石英岩砂轮",
 
 	"game:blockhelp-grindstone-hone": "打磨金属物品",
 	"game:honing-cutoff-message": "可用于打磨的材料所剩无几。看起来是时候重铸了！",

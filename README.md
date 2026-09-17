@@ -44,7 +44,7 @@
 39. `Nat's Achievements / Nat的成就系统` [1.2.0](https://mods.vintagestory.at/show/mod/9615)
 40. `Scarecrow / 稻草人` [1.6.4](https://mods.vintagestory.at/scarecrow)
 41. `NaturesCall / 自然呼唤` [1.2.0](https://mods.vintagestory.at/naturescall)
-42. `Toolsmith / 工具匠` [1.2.14](https://mods.vintagestory.at/toolsmith)
+42. `Toolsmith / 工具匠` [1.2.19](https://mods.vintagestory.at/toolsmith)
 43. `Valrossens Waypoint Legend/Filter / Valrossens航点图例/过滤器` [1.0.4](https://mods.vintagestory.at/show/mod/22391)
 44. `Valley of Ashes / 灰烬之谷` [1.1.0](https://mods.vintagestory.at/valleyofashes)
 45. `Expanded Matter / 扩展物质` [3.7.0](https://mods.vintagestory.at/em)
