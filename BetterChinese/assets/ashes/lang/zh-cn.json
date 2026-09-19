@@ -1,8 +1,14 @@
-
 {
 	"ashes:setting_enable_potash_crafting":			"可以制作草木灰",
 
-	"ashes:setting_enable_potash_crafting_comment":		"启用从潮湿的灰烬中制作草木灰的功能",
+	"ashes:setting_enable_potash_crafting_comment":		"启用从潮湿木灰中制作草木灰的功能",
 
-	"ashes:settings_title_crafting_recipes":		"灰烬之谷 - 合成配方"
+	"ashes:settings_title_crafting_recipes":		"灰烬之谷 - 合成配方",
+
+	"game:handbook-item-usage-bark-ash":			"可通过在水中浸提后干燥，制成肥料。",
+	"game:handbook-item-usage-bark-ash-solution":		"可通过浓缩成<a href=\"handbook://item-em:ash-organic-wood-sludge\">灰泥</a>，然后干燥，制成肥料。",
+
+	"ashes:item-plantdebris-seagrass":			"新鲜海草",
+	"ashes:item-plantdebris-seaweed":			"新鲜海藻",
+	"ashes:item-plantdebris-kelp":				"新鲜海带"
 }

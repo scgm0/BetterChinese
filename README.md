@@ -46,7 +46,7 @@
 41. `NaturesCall / 自然呼唤` [1.2.0](https://mods.vintagestory.at/naturescall)
 42. `Toolsmith / 工具匠` [1.2.19](https://mods.vintagestory.at/toolsmith)
 43. `Valrossens Waypoint Legend/Filter / Valrossens航点图例/过滤器` [1.0.4](https://mods.vintagestory.at/show/mod/22391)
-44. `Valley of Ashes / 灰烬之谷` [1.1.0](https://mods.vintagestory.at/valleyofashes)
+44. `Valley of Ashes / 灰烬之谷` [1.5.0](https://mods.vintagestory.at/valleyofashes)
 45. `Expanded Matter / 扩展物质` [3.8.1](https://mods.vintagestory.at/em)
 46. `Tools Animations / 工具动画` [1.0.1](https://mods.vintagestory.at/toolsanimations)
 47. `MakeTea / 喝茶` [0.3.1](https://mods.vintagestory.at/maketea)
