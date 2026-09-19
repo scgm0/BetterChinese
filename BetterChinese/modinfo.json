@@ -1,5 +1,6 @@
 {
-    "type": "code",
+    "$schema": "https://moddbcdn.vintagestory.at/schema/modinfo.latest.json",
+    "type": "Code",
     "modid": "betterchinese",
     "name": "更好的汉化",
     "authors": [
@@ -7,7 +8,9 @@
     ],
     "description": "为没有汉化的模组提供汉化，修正原版的错误汉化。",
     "version": "0.5.7",
-    "side": "client",
+    "side": "Universal",
+    "requiredOnClient": false,
+    "requiredOnServer": false,
     "dependencies": {
         "game": "1.22.3"
     }
