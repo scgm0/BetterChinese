@@ -6,7 +6,7 @@
         "神麤詭末"
     ],
     "description": "为没有汉化的模组提供汉化，修正原版的错误汉化。",
-    "version": "0.5.6",
+    "version": "0.5.7",
     "side": "client",
     "dependencies": {
         "game": "1.22.3"
