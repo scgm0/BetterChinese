@@ -1,12 +1,8 @@
 ﻿using System.IO;
 using Newtonsoft.Json;
-using Vintagestory.API.Client;
 using Vintagestory.API.Common;
 using Vintagestory.API.Config;
-using Vintagestory.API.Datastructures;
-using Vintagestory.API.Server;
 using Vintagestory.Client;
-using Vintagestory.Client.NoObf;
 using Vintagestory.Common;
 
 namespace BetterChinese;

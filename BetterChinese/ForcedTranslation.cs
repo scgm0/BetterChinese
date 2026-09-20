@@ -1,7 +1,5 @@
 using System;
 using System.Collections.Generic;
-using System.Reflection;
-using Cairo;
 using HarmonyLib;
 using Vintagestory.API.Client;
 using Vintagestory.API.Common;

@@ -1,6 +1,4 @@
-using Cairo;
 using HarmonyLib;
-using Vintagestory.API.Client;
 
 namespace BetterChinese;
 
