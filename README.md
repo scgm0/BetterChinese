@@ -176,3 +176,4 @@
 171. `Expanded Foods: Chef's Tricks / 扩展食品：厨师秘诀` [1.0.0-dev.4](https://mods.vintagestory.at/efchefstricks)
 172. `Seraph Leveling / 炽天使升级` [1.22.0](https://mods.vintagestory.at/show/mod/38354)
 173. `Long term food / 长期食品` [0.7.3](https://mods.vintagestory.at/longtermfood)
+174. `Salty´s Roasting Stick / Salty的烧烤棒` [0.1.0](https://mods.vintagestory.at/roastingstick)
