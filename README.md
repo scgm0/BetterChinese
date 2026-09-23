@@ -121,7 +121,7 @@
 116. `Fendragon BCS / 风龙背包结构系统` [0.2.3](https://mods.vintagestory.at/fendragonbcs)
 117. `Decaying Creatures / 腐烂生物` [0.1.8](https://mods.vintagestory.at/show/mod/12869)
 118. `Vintage Engineering / 复古工程` [0.5.5](https://mods.vintagestory.at/vintageengineering)
-119. `Vinconomy - A Vintage Story Economy Mod / 复古经济` [5.3.0](https://mods.vintagestory.at/vinconomy)
+119. `Vinconomy - A Vintage Story Economy Mod / 复古经济` [6.0.1](https://mods.vintagestory.at/vinconomy)
 120. `MoreHUDBars / 更多HUD栏位` [1.2.0](https://mods.vintagestory.at/morehudbars)
 121. `MoreFloors / 更多地板` [2.2.0](https://mods.vintagestory.at/morefloors)
 122. `MoreLanterns / 更多灯笼` [1.4.1](https://mods.vintagestory.at/apelanterns)
