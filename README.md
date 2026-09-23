@@ -131,7 +131,7 @@
 126. `HUD Clock Patch / 简易时钟` [4.3.1](https://mods.vintagestory.at/hudclock)
 127. `Diminished Hammering / 降低锻打声` [1.0.1](https://mods.vintagestory.at/diminishedhammering)
 128. `Xandus Inventory Tweaks Fork / [Xandus] 库存整理分叉` [1.9.1](https://mods.vintagestory.at/xinvtweaksfork)
-129. `Stone Bake Oven / 石烤炉` [1.3.4](https://mods.vintagestory.at/stonebakeoven)
+129. `Stone Bake Oven / 石烤炉` [1.4.0](https://mods.vintagestory.at/stonebakeoven)
 130. `AltMapIconRendererContinued / 替代地图图标渲染器续` [1.6.0](https://mods.vintagestory.at/amirc)
 131. `PlayerCorpse-Forked / 玩家尸体-分叉` [1.14.1](https://mods.vintagestory.at/playercorpseforked)
 132. `ViesCraft Machines / 维斯工艺机械` [2.5.0](https://mods.vintagestory.at/viescraftmachines)
