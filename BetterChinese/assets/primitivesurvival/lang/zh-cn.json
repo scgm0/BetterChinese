@@ -1,7 +1,7 @@
 {
     "game:tabname-primitive": "原始生存",
     "game:ps-quickstart-title": "原始生存：快速入门指南",
-    "game:ps-quickstart-text": "<strong>原始生存：快速入门指南</strong><br><i>第一步：生存。第二步：繁荣！</i><br><br>该模组的最新版本和附加文档可在此处找到：<a href=\"https://mods.vintagestory.at/primitivesurvival\">模组页面</a>。<br><br><strong>简介</strong><br>本模组旨在为狩猎和畜牧等活动提供一种更为真实的替代方式，同时与现有玩法相辅相成。<br><br>要成为一名成功的原始生存者，你需要灵活运用以下策略来获取高热量蛋白质（以及哺乳动物提供的其他必需品）。<br><br><strong>选址，选址，再选址</strong><br>选择一个合适的地点作为家园至关重要，理想位置应靠近有充足<a href=\"handbook://block-tallplant-coopersreed-land-normal-free\">芦苇</a>的水源。沿途尽量收集食物、<a href=\"handbook://item-stick\">木棍</a>和坚硬的<a href=\"handbook://item-stone-granite\">石块</a>。<br><br><strong>必需品</strong><br>虽然木棍、石头和食物足以启动你的陷阱线，但若想采取多管齐下的原始生存策略，还需准备其他核心材料。建议<a href=\"handbook://craftinginfo-knapping\">敲制</a>一把石刀来制作<a href=\"handbook://block-primitivesurvival:stake-empty\">木桩</a>（并收割芦苇中的香蒲）。用香蒲制作<a href=\"handbook://item-primitivesurvival:cordage\">绳索</a>。<br><br><strong>陷阱设置</strong><br>建造一些<a href=\"handbooksearch://Deadfall\">落石陷阱</a>和/或<a href=\"handbook://block-primitivesurvival:snare-set-north\">套索陷阱</a>，并在附近不同位置布置。使用食物作为诱饵可大幅提升陷阱效率（手持食物点击陷阱即可）。若陷阱触发，右键重置并重新添加诱饵。<br><br>套索陷阱组装耗时较长，但能捕获比落石陷阱更大的猎物。<br><br>你还可以削尖木棍制作<a href=\"handbook://item-primitivesurvival:woodspikebundle\">木刺捆</a>，将其插入松软地面（最好是坑内）。用同样的木刺制作坑洞的伪装覆盖物。完成后，附近的动物会被吸引并（希望）落入陷阱。<br><br>掌握黏土塑形和冶炼技术后，可制作<a href=\"handbooksearch://Bed-O-Nails\">钉床模具</a>，其杀伤力远超木刺且可放置于任何表面。<br><br><strong>捕鱼技巧</strong><br>用木棍和绳索制作<a href=\"handbook://block-primitivesurvival:fishbasket-north\">鱼篓</a>，放入水中开始捕鱼。添加诱饵可吸引更多鱼群（方法与陷阱相同）。<br><br>或者直接用木桩建造<strong>围堰陷阱</strong>：在水面或水边用木桩围出中间留有空隙的栅栏区域，右键点击栅栏远端（木桩）激活。木桩会形成“M”形，表示陷阱已生效。<br><br>使用<strong>枝线</strong>或<strong>延绳钓</strong>（需绳索和木桩）可能更高效。选择合适的位置（如树木、土块或水边木桩），在对面放置另一锚点。手持绳索面向水面点击锚点连接钓线。<br><br>接着，敲制<a href=\"handbooksearch://Fishing Hook\">鱼钩</a>或用<a href=\"handbook://item-primitivesurvival:fishinghook-bone\">骨头</a>雕刻鱼钩。手持鱼钩点击水面上方的钓线安装。最后，添加诱饵提升效率。<br><br>枝线和延绳钓不受水域限制，效率可能高于鱼篓。掌握黏土冶炼后，可制作金属鱼钩和<a href=\"handbooksearch://Fishing Lure\">假饵</a>，进一步提升捕鱼成功率。<br><br><strong>食物加工</strong><br><br>在树枝或石块下搜寻（右键）可捕获<a href=\"handbook://item-primitivesurvival:earthworm\">蚯蚓</a>。蚯蚓用途多样：直接食用补充蛋白质、作为鱼饵、放置在肥沃土壤上改善耕地，或放入土洞生成<a href=\"handbook://item-primitivesurvival:earthwormcastings\">蚯蚓粪</a>作为肥料。<br><br>将红肉或野味切块制成<a href=\"handbook://item-primitivesurvival:jerky-redmeat-raw\">生红肉干</a>或<a href=\"handbook://item-primitivesurvival:jerky-bushmeat-raw\">生野味干</a>。需等待风干后食用（也可直接烹饪）。<br><br><strong>其他功能</strong><br><br>掌握延绳钓后，可建造<a href=\"handbook://item-primitivesurvival:monkeybridge\">猴桥</a>跨越沟壑或湖泊，两端需为双层方块或树木。<br><br>鱼篓和围堰陷阱偶尔会捕获贝壳或<strong>不可名状之物</strong>。<br><br>此外，模组还包含独特木筏、树洞、灌溉系统、熏肉架、矛捕鱼、烟火、引信、爆炸物等丰富内容。点击<a href=\"handbooksearch://primitive survival\">此链接</a>查看完整列表。<br><br>",
+    "game:ps-quickstart-text": "<strong>原始生存：快速入门指南</strong><br><i>第一步：生存。第二步：繁荣！</i><br><br>该模组的最新版本和附加文档可在此处找到：<a href=\"https://mods.vintagestory.at/primitivesurvival\">模组页面</a>。<br><br><strong>简介</strong><br>本模组旨在为狩猎和畜牧等活动提供一种更为真实的替代方式，同时与现有玩法相辅相成。<br><br>要成为一名成功的原始生存者，你需要灵活运用以下策略来获取高热量蛋白质（以及哺乳动物提供的其他必需品）。<br><br><strong>选址，选址，再选址</strong><br>选择一个合适的地点作为家园至关重要，理想位置应靠近有充足<a href=\"handbook://block-tallplant-coopersreed-land-normal-free\">芦苇</a>的水源。沿途尽量收集食物、<a href=\"handbook://item-stick\">木棍</a>和坚硬的<a href=\"handbook://item-stone-granite\">石块</a>。<br><br><strong>必需品</strong><br>虽然木棍、石头和食物足以启动你的陷阱线，但若想采取多管齐下的原始生存策略，还需准备其他核心材料。建议<a href=\"handbook://craftinginfo-knapping\">敲制</a>一把石刀来制作<a href=\"handbook://block-primitivesurvival:stake-empty\">木桩</a>（并收割芦苇中的香蒲）。用香蒲制作<a href=\"handbook://item-primitivesurvival:cordage\">绳索</a>。<br><br><strong>陷阱设置</strong><br>建造一些<a href=\"handbooksearch://Deadfall\">落石陷阱</a>和/或<a href=\"handbook://block-primitivesurvival:snare-set-north\">套索陷阱</a>，并在附近不同位置布置。使用食物作为诱饵可大幅提升陷阱效率（手持食物点击陷阱即可）。若陷阱触发，右键重置并重新添加诱饵。<br><br>套索陷阱组装耗时较长，但能捕获比落石陷阱更大的猎物。<br><br>你还可以削尖木棍制作<a href=\"handbook://item-primitivesurvival:woodspikebundle\">木刺捆</a>，将其插入松软地面（最好是坑内）。用同样的木刺制作坑洞的伪装覆盖物。完成后，附近的动物会被吸引并（希望）落入陷阱。<br><br>掌握黏土塑形和冶炼技术后，可制作<a href=\"handbooksearch://Bed-O-Nails\">钉床模具</a>，其杀伤力远超木刺且可放置于任何表面。<br><br><strong>捕鱼技巧</strong><br>用木棍和绳索制作<a href=\"handbook://block-primitivesurvival:fishbasket-north\">鱼篓</a>，放入水中开始捕鱼。添加诱饵可吸引更多鱼群（方法与陷阱相同）。<br><br>或者直接用木桩建造<strong>围堰陷阱</strong>：在水面或水边用木桩围出中间留有空隙的栅栏区域，右键点击栅栏远端（木桩）激活。木桩会形成“M”形，表示陷阱已生效。<br><br>使用<strong>枝线</strong>或<strong>延绳钓</strong>（需绳索和木桩）可能更高效。选择合适的位置（如树木、土块或水边木桩），在对面放置另一锚点。手持绳索面向水面点击锚点连接钓线。<br><br>接着，敲制<a href=\"handbooksearch://Fishing Hook\">鱼钩</a>或用<a href=\"handbook://item-primitivesurvival:fishinghook-bone\">骨头</a>雕刻鱼钩。手持鱼钩点击水面上方的钓线安装。最后，添加诱饵提升效率。<br><br>枝线和延绳钓不受水域限制，效率可能高于鱼篓。掌握黏土冶炼后，可制作金属鱼钩和<a href=\"handbooksearch://Fishing Lure\">假饵</a>，进一步提升捕鱼成功率。<br><br><strong>食物加工</strong><br><br>在树枝或石块下搜寻（右键）可捕获<a href=\"handbook://item-primitivesurvival:earthworm\">蚯蚓</a>。蚯蚓用途多样：直接食用补充蛋白质、作为鱼饵、放置在肥沃土壤上改善耕地，或放入土洞生成<a href=\"handbook://item-primitivesurvival:earthwormcastings\">蚯蚓粪</a>作为肥料。<br><br>将红肉或野味切块制成<a href=\"handbook://item-primitivesurvival:jerky-redmeat-raw\">生红肉干</a>或<a href=\"handbook://item-primitivesurvival:jerky-bushmeat-raw\">生野味干</a>。需等待风干后食用（也可直接烹饪）。<br><br><strong>其他功能</strong><br><br>掌握延绳钓后，可建造<a href=\"handbook://item-primitivesurvival:monkeybridge\">猴桥</a>跨越沟壑或湖泊，两端需为双层方块或树木。<br><br>鱼篓和围堰陷阱偶尔会捕获海贝。<br><br>此外，模组还包含独特木筏、树洞、灌溉系统、熏肉架、矛捕鱼、烟火、引信、爆炸物等丰富内容。点击<a href=\"handbooksearch://primitive survival\">此链接</a>查看完整列表。<br><br>",
     "item-cordage": "绳索",
     "itemdesc-cordage": "陷阱和捕鱼的关键材料。",
     "block-limbtrotlinelure-*": "枝线或延绳钓",
@@ -292,7 +292,7 @@
     "blockdesc-raft*": "手持时进出水域自动使用，无需按键。",
     "blockdesc-snare-set*": "置于软地捕捉动物，添加诱饵提升效率。",
     "blockdesc-woodlantern*": "亮度不及普通灯笼，但无需玻璃且造型别致。",
-    "blockdesc-firework-*": "置于软地，用火把点燃。享受表演！",
+    "blockdesc-firework-*": "置于软地，用火把点燃；或用引信将多个连接起来，享受一场盛大的烟火表演！",
     "blockdesc-deadfall*": "置于地面捕捉动物，添加诱饵提升效率。",
     "itemdesc-caviar*": "珍馐。专为尊贵天使准备。",
     "itemdesc-fisheggscooked": "开饭时间到！",
@@ -741,7 +741,7 @@
 
     "item-fishingspear-wood-*": "木制鱼叉",
     "item-fishingspear-bamboo-*": "竹制鱼叉",
-    "itemdesc-fishingspear-*": "像普通长矛一样刺击以捕鱼。手持副手时，主手空手右键可从鱼叉上取下鱼。",
+    "itemdesc-fishingspear-*": "像普通长矛一样刺击以捕鱼。按住右键可从鱼叉上取下鱼。",
     "game:handhelp-spearfish": "叉鱼",
     "game:handhelp-removefish": "移除鱼",
 
@@ -859,5 +859,8 @@
     "item-smokedmeat-fish-charred": "熏鱼（烧焦）",
 
     "recipeingredient-item-jerky-insturmentalcase": "肉干",
-    "fishingstocksat" : "此处的鱼类资源已消耗 {0}%"
+    "fishingstocksat": "此处的鱼类资源已消耗 {0}%",
+
+    "blockdesc-furrowedland-*": "从水源处开始犁沟，向内陆延伸，犁沟会自动充水。否则必须用桶注水（若游戏启用液体运输）。",
+    "block-floatingdock-aged-*": "浮码头（老化橡木）"
 }
