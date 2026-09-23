@@ -1,0 +1,9 @@
+{
+	"game:tabname-grasstoropes": "草与绳",
+	"item-grassbundle": "干草捆",
+	"itemdesc-grassbundle": "一捆干草，或许可以作为某些物品的替代品。",
+	"block-grass-grasschest-*": "干草箱",
+	"blockdesc-grasschest-*": "用于存储物品。",
+	"item-grassbasket": "干草手提篮",
+	"itemdesc-grassbasket": "提高你可携带的物品数量。"
+}
