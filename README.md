@@ -178,3 +178,4 @@
 173. `Long term food / 长期食品` [0.7.3](https://mods.vintagestory.at/longtermfood)
 174. `Salty´s Roasting Stick / Salty的烧烤棒` [0.1.0](https://mods.vintagestory.at/roastingstick)
 175. `Grass to Ropes / 草与绳` [1.2.4](https://mods.vintagestory.at/grasstoropes)
+176. `Immersive Backpacks / 沉浸式背包` [1.3.4](https://mods.vintagestory.at/immersivebackpacks)
