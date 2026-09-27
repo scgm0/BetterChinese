@@ -1,0 +1,115 @@
+{
+    "missing-hammer": "副手缺少锤子。",
+    "missing-item": "副手缺少物品/工具。",
+    "missing-item-quantity": "副手物品数量不足。",
+    "wrong-item": "副手物品/工具错误。",
+    "missing-material": "缺少建造材料。",
+    "invalid-frame": "坡度对于屋顶材料来说太陡。",
+    "missing-daub": "缺少抹灰。",
+    "duplicate-daub": "方块已包含篱笆和抹灰。",
+
+    "place-frame": "建造屋顶框架",
+    "place-frame-standard": "标准",
+    "place-frame-standard-left": "标准左",
+    "place-frame-standard-right": "标准右",
+    "place-frame-eave": "屋檐",
+    "place-frame-eave-left": "屋檐左",
+    "place-frame-eave-right": "屋檐右",
+    "place-frame-ridge": "屋脊",
+
+    "place-frame-auto": "自动",
+    "place-frame-back": "返回",
+
+    "place-frame-adv-standard": "手动配置",
+    "place-frame-adv-eave": "手动配置",
+    "place-frame-adv-ridge": "手动配置",
+
+    "place-frame-standard-none": "无",
+    "place-frame-standard-slope1-lower": "3x1 - 下部",
+    "place-frame-standard-slope1-middle": "3x1 - 中部",
+    "place-frame-standard-slope1-upper": "3x1 - 上部",
+
+    "place-frame-standard-slope2-lower": "2x1 - 下部",
+    "place-frame-standard-slope2-upper": "2x1 - 上部",
+
+    "place-frame-standard-slope3-middle": "1x1 - 中部",
+
+    "place-frame-standard-slope4-lower": "1x2 - 下部",
+    "place-frame-standard-slope4-upper": "1x2 - 上部",
+
+    "place-frame-standard-slope5-lower": "1x3 - 下部",
+    "place-frame-standard-slope5-middle": "1x3 - 中部",
+    "place-frame-standard-slope5-upper": "1x3 - 上部",
+
+    "place-frame-eave-slope1": "3x1",
+    "place-frame-eave-slope2": "2x1",
+    "place-frame-eave-slope3": "1x1",
+    "place-frame-eave-slope4": "1x2",
+    "place-frame-eave-slope5": "1x3",
+
+    "place-frame-ridge-slope1": "3x1",
+    "place-frame-ridge-slope2": "2x1",
+    "place-frame-ridge-slope3": "1x1",
+    "place-frame-ridge-slope4": "1x2",
+    "place-frame-ridge-slope5": "1x3",
+
+
+    "roof-corner-inner": "内侧",
+    "roof-corner-outer": "外侧",
+
+    "add-fill": "添加基础方块",
+    "add-plant": "添加植物",
+    "remove-fill": "移除基础方块",
+    "add-material": "添加材料",
+    "rotate-textures": "旋转材料",
+    "toggle-lock": "锁定/解锁",
+    "lock": "锁定",
+    "unlock": "解锁",
+    "locked": "（已锁定）",
+    "toggle-beam": "切换框架横梁",
+    "reset-beams": "重置框架横梁",
+    "remove-snow": "清除积雪",
+    "add-roof-material": "添加屋顶材料",
+
+
+
+    "craftinginfo-guide-title": "VS 屋顶模组：制作指南",
+    "craftinginfo-guide-text": "<strong>VS 屋顶模组：制作指南</strong>\n屋顶的制作为：先建造框架，然后向框架添加屋顶材料。\n\n<strong>框架</strong>\n框架类型\n\n<strong>木棍 / 竹子 / 树枝</strong>\n这些前期游戏框架由木棍、竹桩和柴火（树枝）<itemstack type=\"item\">stick|bamboostakes|firewood</itemstack> 制成，同时副手需持有麻线/绳索资源（亚麻纤维、香蒲、纸莎草和野藤）<itemstack type=\"item\">flaxfibers|cattailtops|papyrustops</itemstack>/<itemstack type=\"block\">wildvine-section-north</itemstack>。\n\n<strong>木材</strong>\n这种中后期游戏框架由木板 <itemstack type=\"item\">plank-birch|plank-oak|plank-maple|plank-pine|plank-acacia|plank-kapok|plank-baldcypress|plank-larch|plank-redwood|plank-ebony|plank-walnut|plank-purpleheart|plank-aged</itemstack> 制成，同时副手需持有锤子 <itemstack type=\"item\">hammer-copper|hammer-tinbronze|hammer-bismuthbronze|hammer-blackbronze|hammer-gold|hammer-silver|hammer-iron|hammer-meteoriciron|hammer-steel</itemstack>。\n\n<strong>金属</strong>\n这种后期游戏框架由金属棒 <itemstack type=\"item\">rod-copper|rod-tinbronze|rod-bismuthbronze|rod-blackbronze|rod-gold|rod-silver|rod-iron|rod-meteoriciron|rod-steel|rod-cupronickel|rod-electrum</itemstack> 制成，同时副手需持有锤子 <itemstack type=\"item\">hammer-copper|hammer-tinbronze|hammer-bismuthbronze|hammer-blackbronze|hammer-gold|hammer-silver|hammer-iron|hammer-meteoriciron|hammer-steel</itemstack>。\n\n使用 <hk>rightmouse</hk> 按钮建造每个框架。\n框架可以水平和垂直放置，以创建低坡度和高坡度。角落（外侧和内侧）通过将垂直的屋顶前后组合来创建。\n你还可以使用 <hk>toolmodeselect</hk>（工具模式）选择框架类型（标准、屋檐、屋脊）。此菜单还会提供左/右变体以及手动覆盖坡度和放置位置的功能。\n\n<strong>材料</strong>\n要添加屋顶材料，请手持所需物品/方块，并在框架上按住 <hk>shift</hk> 的同时按下 <hk>rightmouse</hk> 按钮。\n<font color=\"#C41E3A\">某些材料可能需要在副手持有工具才能添加。</font>\n某些屋顶配方可能还需要你物品栏中的额外资源。更多信息请参阅<a href=\"handbook://vsroofing:craftinginfo-recipes\">配方指南</a>。\n\n<strong>基础方块</strong>\n要添加基础（填充）方块，请手持所需方块，并在按住 <hk>ctrl</hk> 的同时按下 <hk>rightmouse</hk> 按钮。这些基础方块可以凿刻。\n<i>提示：你可以用扳手旋转纹理。你也可以使用 Ctrl 添加更多材料。</i>\n\n<strong>锁定</strong>\n你可以使用锤子 + <hk>rightmouse</hk> 来切换方块的锁定状态。这将防止任何重新配置。\n\n<strong>隐藏横梁</strong>\n你还可以使用锯子 + <hk>rightmouse</hk> 来隐藏横梁。这将在隐藏和自动之间切换横梁（即无法再添加横梁）。\n<i>提示：并非所有横梁都属于所有方块，如果不生效，请尝试相邻的方块。</i>"
+,
+
+    "craftinginfo-recipes-title": "VS 屋顶模组：配方",
+    "craftinginfo-recipes-text": "<strong>VS 屋顶模组：配方</strong>\n每种屋顶类型的建造步骤按顺序列在下面。某些步骤需要多种材料*。\n<font color=\"#C41E3A\">这些材料是除框架之外所需的！</font>\n\n<strong>基础木棍</strong>\n- 2 x 木棍 <itemstack type=\"item\">stick</itemstack>\n<i>注意：不会隔热（房间）。</i>\n<strong>木棍</strong>\n- 2 x 木棍 <itemstack type=\"item\">stick</itemstack>\n- 2 x 木棍 <itemstack type=\"item\">stick</itemstack>\n<strong>树叶</strong>\n- 2 x 蕨类 <itemstack type=\"block\">fern-cinnamonfern|fern-deerfern|fern-eaglefern|fern-hartstongue</itemstack>\n<i>注意：不会隔热（房间）。</i>\n<strong>树枝</strong>\n- 2 x 柴火 <itemstack type=\"item\">firewood</itemstack>\n<strong>稻草</strong>\n- 4 x 干草 <itemstack type=\"item\">drygrass</itemstack>\n<i>注意：支持坡度 1x1、2x1、3x1 和 1x2。</i>\n<strong>老化稻草</strong>\n- 4 x 干草 <itemstack type=\"item\">drygrass</itemstack>\n- 1 x 黏土 <itemstack type=\"item\">clay-blue|clay-red|clay-fire</itemstack>\n<i>注意：支持坡度 1x1、2x1、3x1 和 1x2。</i>\n<strong>茅草</strong>\n- 1 x 茅草 <itemstack type=\"item\">thatch</itemstack>\n<strong>老化茅草</strong>\n- 1 x 茅草 <itemstack type=\"item\">thatch</itemstack>\n- 1 x 黏土 <itemstack type=\"item\">clay-blue|clay-red|clay-fire</itemstack>\n<strong>布料</strong>\n- 1 x 皮革或布料 <itemstack type=\"item\">leather-sturdy-plain|leather-normal-plain|cloth-plain|cloth-mordant|cloth-blue|cloth-red|cloth-yellow|cloth-green|cloth-purple|cloth-pink|cloth-orange|cloth-brown|cloth-gray|cloth-black|cloth-white</itemstack>\n<strong>竹子</strong>\n- 2 x 一捆竹桩 <itemstack type=\"item\">bamboostakes</itemstack>\n<strong>黏土瓦</strong>\n- 2 x 烧制黏土瓦 <itemstack type=\"item\">shingle-burned-black|shingle-burned-brown|shingle-burned-cream|shingle-burned-fire|shingle-burned-gray|shingle-burned-orange|shingle-burned-red|shingle-burned-tan</itemstack>。副手：<itemstack type=\"item\">hammer-copper|hammer-tinbronze|hammer-bismuthbronze|hammer-blackbronze|hammer-gold|hammer-silver|hammer-iron|hammer-meteoriciron|hammer-steel</itemstack>\n<strong>玻璃</strong>\n- 1 x 玻璃块/台阶 <itemstack type=\"block\">glass-quartz|glass-plain|glass-green|glass-blue|glass-violet|glass-red|glass-yellow|glass-brown|glass-vintage|glass-smoky|glass-pink|glassslab-quartz-north-free|glassslab-plain-north-free|glassslab-green-north-free|glassslab-blue-north-free|glassslab-violet-north-free|glassslab-red-north-free|glassslab-yellow-north-free|glassslab-brown-north-free|glassslab-vintage-north-free|glassslab-smoky-north-free|glassslab-pink-north-free</itemstack>。副手：<itemstack type=\"item\">hammer-copper|hammer-tinbronze|hammer-bismuthbronze|hammer-blackbronze|hammer-gold|hammer-silver|hammer-iron|hammer-meteoriciron|hammer-steel</itemstack>\n<strong>石瓦</strong>\n- 3 x 石头 <itemstack type=\"item\">stone-slate|stone-chalk|stone-limestone|stone-bauxite</itemstack> + 1 x 黏土 <itemstack type=\"item\">clay-blue|clay-red|clay-fire</itemstack>。副手：<itemstack type=\"item\">hammer-copper|hammer-tinbronze|hammer-bismuthbronze|hammer-blackbronze|hammer-gold|hammer-silver|hammer-iron|hammer-meteoriciron|hammer-steel</itemstack>\n<strong>铜</strong>\n- 1 x 铜板 <itemstack type=\"item\">metalplate-copper</itemstack>。副手：<itemstack type=\"item\">hammer-copper|hammer-tinbronze|hammer-bismuthbronze|hammer-blackbronze|hammer-gold|hammer-silver|hammer-iron|hammer-meteoriciron|hammer-steel</itemstack>\n<strong>木板</strong>\n- 1 x 原木 <itemstack type=\"block\">log-placed-birch-ud|log-placed-oak-ud|log-placed-maple-ud|log-placed-pine-ud</itemstack>。\n<strong>基础木板</strong>\n- 2 x 木板 <itemstack type=\"item\">plank-birch|plank-oak|plank-maple|plank-pine|plank-acacia|plank-kapok|plank-baldcypress|plank-larch|plank-redwood|plank-ebony|plank-walnut|plank-purpleheart|plank-aged</itemstack>。副手：<itemstack type=\"item\">hammer-copper|hammer-tinbronze|hammer-bismuthbronze|hammer-blackbronze|hammer-gold|hammer-silver|hammer-iron|hammer-meteoriciron|hammer-steel</itemstack>\n<strong>木质</strong>\n- 2 x 木板 <itemstack type=\"item\">plank-birch|plank-oak|plank-maple|plank-pine|plank-acacia|plank-kapok|plank-baldcypress|plank-larch|plank-redwood|plank-ebony|plank-walnut|plank-purpleheart|plank-aged</itemstack>。副手：<itemstack type=\"item\">hammer-copper|hammer-tinbronze|hammer-bismuthbronze|hammer-blackbronze|hammer-gold|hammer-silver|hammer-iron|hammer-meteoriciron|hammer-steel</itemstack>\n- 3 x 木板 <itemstack type=\"item\">plank-birch|plank-oak|plank-maple|plank-pine|plank-acacia|plank-kapok|plank-baldcypress|plank-larch|plank-redwood|plank-ebony|plank-walnut|plank-purpleheart|plank-aged</itemstack>。副手：<itemstack type=\"item\">hammer-copper|hammer-tinbronze|hammer-bismuthbronze|hammer-blackbronze|hammer-gold|hammer-silver|hammer-iron|hammer-meteoriciron|hammer-steel</itemstack>\n<strong>木板 + 黏土瓦</strong>\n- 2 x 木板 <itemstack type=\"item\">plank-birch|plank-oak|plank-maple|plank-pine|plank-acacia|plank-kapok|plank-baldcypress|plank-larch|plank-redwood|plank-ebony|plank-walnut|plank-purpleheart|plank-aged</itemstack>。副手：<itemstack type=\"item\">hammer-copper|hammer-tinbronze|hammer-bismuthbronze|hammer-blackbronze|hammer-gold|hammer-silver|hammer-iron|hammer-meteoriciron|hammer-steel</itemstack>\n- 1 x 烧制黏土瓦 <itemstack type=\"item\">shingle-burned-black|shingle-burned-brown|shingle-burned-cream|shingle-burned-fire|shingle-burned-gray|shingle-burned-orange|shingle-burned-red|shingle-burned-tan</itemstack>。副手：<itemstack type=\"item\">hammer-copper|hammer-tinbronze|hammer-bismuthbronze|hammer-blackbronze|hammer-gold|hammer-silver|hammer-iron|hammer-meteoriciron|hammer-steel</itemstack>\n<strong>木板 + 石瓦</strong>\n- 2 x 木板 <itemstack type=\"item\">plank-birch|plank-oak|plank-maple|plank-pine|plank-acacia|plank-kapok|plank-baldcypress|plank-larch|plank-redwood|plank-ebony|plank-walnut|plank-purpleheart|plank-aged</itemstack>。副手：<itemstack type=\"item\">hammer-copper|hammer-tinbronze|hammer-bismuthbronze|hammer-blackbronze|hammer-gold|hammer-silver|hammer-iron|hammer-meteoriciron|hammer-steel</itemstack>\n- 3 x 石头 <itemstack type=\"item\">stone-slate|stone-chalk|stone-limestone|stone-bauxite</itemstack> + 1 x 黏土 <itemstack type=\"item\">clay-blue|clay-red|clay-fire</itemstack>。副手：<itemstack type=\"item\">hammer-copper|hammer-tinbronze|hammer-bismuthbronze|hammer-blackbronze|hammer-gold|hammer-silver|hammer-iron|hammer-meteoriciron|hammer-steel</itemstack>\n<strong>草皮</strong>\n- 2 x 木板 <itemstack type=\"item\">plank-birch|plank-oak|plank-maple|plank-pine|plank-acacia|plank-kapok|plank-baldcypress|plank-larch|plank-redwood|plank-ebony|plank-walnut|plank-purpleheart|plank-aged</itemstack>。副手：<itemstack type=\"item\">hammer-copper|hammer-tinbronze|hammer-bismuthbronze|hammer-blackbronze|hammer-gold|hammer-silver|hammer-iron|hammer-meteoriciron|hammer-steel</itemstack>\n- 1 x 低或中等肥力土壤 <itemstack type=\"block\">soil-low-none|soil-low-verysparse|soil-low-sparse|soil-low-normal|soil-medium-none|soil-medium-verysparse|soil-medium-sparse|soil-medium-normal</itemstack>\n- 1 x 干草 <itemstack type=\"item\">drygrass</itemstack>\n<i>注意：支持坡度 1x1、2x1 和 3x1。</i>\n<strong>草皮（台阶）</strong>\n- 1 x 原木 <itemstack type=\"block\">log-placed-birch-ud|log-placed-oak-ud|log-placed-maple-ud|log-placed-pine-ud</itemstack>。\n- 1 x 低或中等肥力土壤 <itemstack type=\"block\">soil-low-none|soil-low-verysparse|soil-low-sparse|soil-low-normal|soil-medium-none|soil-medium-verysparse|soil-medium-sparse|soil-medium-normal</itemstack>\n- 1 x 干草 <itemstack type=\"item\">drygrass</itemstack>\n<i>注意：支持坡度 1x1、2x1 和 3x1。</i>\n<strong>金属</strong>\n- 1 x 金属板或钉条 <itemstack type=\"item\">metalplate-iron|metalnailsandstrips-iron</itemstack>。副手：<itemstack type=\"item\">hammer-copper|hammer-tinbronze|hammer-bismuthbronze|hammer-blackbronze|hammer-gold|hammer-silver|hammer-iron|hammer-meteoriciron|hammer-steel</itemstack>\n\n<i>当需要多种材料时，第一个指定的材料是主要材料，需要手持（在快捷栏激活槽中）</i>",
+
+    "roof": "屋顶",
+    "frame": "框架",
+    "frame-stick": "木棍和麻线",
+    "frame-bamboo": "竹子",
+    "frame-plank": "木板",
+    "frame-metalbeam": "金属",
+    "frame-firewood": "树枝",
+    "roof-straw": "稻草",
+	"roof-straw-aged": "老化稻草",
+    "roof-thatch": "茅草",
+    "roof-aged-thatch": "老化茅草",
+    "roof-clayshingle": "黏土瓦",
+    "roof-wood-basic": "木板",
+    "roof-wood": "木瓦",
+    "roof-sod-bare": "草皮",
+    "roof-sod": "草皮",
+    "roof-bamboo": "竹子",
+    "roof-glass": "玻璃",
+    "roof-slate": "板岩",
+    "roof-copper": "铜",
+    "roof-metal": "金属",
+	"roof-sticks": "基础木棍",
+	"roof-sticks-layer": "木棍",
+	"roof-cloth": "布料",
+	"roof-wood-shingle": "木板上的黏土瓦",
+    "roof-wood-slab": "木板台阶",
+    "roof-slab-sod-bare": "草皮",
+    "roof-slab-sod": "草皮",
+    "roof-firewood": "树枝",
+    "roof-stone": "石瓦",
+    "roof-wood-stone": "木板上的石瓦",
+    "roof-leaf": "树叶"
+}
