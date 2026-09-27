@@ -2,5 +2,5 @@
   "tabname-coinage": "铸币",
   "gamemechanicinfo-coinage": "硬币",
   "gamemechanicinfo-coinage-title": "硬币",
-  "gamemechanicinfo-coinage-text": "<strong>币坯</strong><br/>铸造自己硬币的第一步是制作一个<a href=\"handbook://item-coinage:punch-iron\">空白硬币凸模</a>。用冲头<hk>rightmouse</hk>开始为你的硬币创建形状。冲头准备好后，将其与金属板一起使用，制作<a href=\"handbooksearch://planchet\">币坯</a>。<br/><br/><strong>铸造</strong><br/>手持<a href=\"handbook://item-coinage:trussell-iron\">桁架</a>并<hk>rightmouse</hk>来创建自定义的硬币设计。手持桁架和锤子，将你的币坯和<a href=\"handbook://item-coinage:anvildie-iron\">砧模</a>一起放入<a href=\"handbooksearch://压币桩\">压币桩</a>中，然后<hk>rightmouse</h>铸币堆来铸造硬币。<br/><br/>记得在原始压模损坏之前，将你的设计复制到一个新的桁架上！将一个空白桁架放入铸币堆，手持旧压模，用锤子将图案敲进去。<br/>你的硬币冲头也可以通过将一个空白冲头与它一起合成来类似地复制。"
+  "gamemechanicinfo-coinage-text": "<strong>币坯</strong><br/>铸造自己硬币的第一步是制作一个<a href=\"handbook://item-coinage:punch-iron\">空白硬币凸模</a>。用冲头<hk>rightmouse</hk>开始为你的硬币创建形状。冲头准备好后，将其与金属板一起使用，制作<a href=\"handbooksearch://planchet\">币坯</a>。<br/><br/><strong>铸造</strong><br/>手持<a href=\"handbook://item-coinage:trussell-iron\">桁架</a>并<hk>rightmouse</hk>来创建自定义的硬币设计。手持桁架和锤子，将你的币坯和<a href=\"handbook://item-coinage:anvildie-iron\">砧模</a>一起放入<a href=\"handbooksearch://压币桩\">压币桩</a>中，然后<hk>rightmouse</hk>铸币堆来铸造硬币。<br/><br/>记得在原始压模损坏之前，将你的设计复制到一个新的桁架上！将一个空白桁架放入铸币堆，手持旧压模，用锤子将图案敲进去。<br/>你的硬币冲头也可以通过将一个空白冲头与它一起合成来类似地复制。"
 }

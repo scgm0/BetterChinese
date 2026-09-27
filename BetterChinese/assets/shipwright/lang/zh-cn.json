@@ -399,7 +399,7 @@
 
 
 	"game:gamemechanic-shipwrightbuilding-title": "船匠：建造船只",
-	"game:gamemechanic-shipwrightbuilding-text": "<strong>船匠建造</strong><br /><br />建造任何船只都始于一个<a href=\"handbooksearch://Shipwrightguide\">建造工地</a>。这些建造物品在手册中列出了各自船只所需的所有资源。制作完成后，在快捷栏中选择它，世界中会出现一个示意图。你可以使用 <hk>toolmodeselect</hk> 键更改示意图的朝向。将其放置在平坦区域（确保蓝色高亮的示意图条位于水中）。<br /><br />之后，如果你开启了方块交互帮助（用 <hk>blockinteractionhelp</hk> 切换），看向建造中的船只将显示下一个所需的材料。</a><br /><br /> 任何使用亚麻帆的船只都可以用<a href=\"handbooksearch://sailrecolor\">船帆改色物品</a>重新着色。<br /><br /> 只有最小的船只可以再次捡起，其他船只只能拆解。<br />拆解：你可以用<a href=\"handbooksearch://saw\">锯子</a>右键点击任何船只来拆解，以取回一部分材料。你需要按住鼠标按钮一段时间，才能完成。",
+	"game:gamemechanic-shipwrightbuilding-text": "<strong>船匠建造</strong><br /><br />建造任何船只都始于一个<a href=\"handbooksearch://Shipwrightguide\">建造工地</a>。这些建造物品在手册中列出了各自船只所需的所有资源。制作完成后，在快捷栏中选择它，世界中会出现一个示意图。你可以使用 <hk>toolmodeselect</hk> 键更改示意图的朝向。将其放置在平坦区域（确保蓝色高亮的示意图条位于水中）。<br /><br />之后，如果你开启了方块交互帮助（用 <hk>blockinteractionhelp</hk> 切换），看向建造中的船只将显示下一个所需的材料。<br /><br /> 任何使用亚麻帆的船只都可以用<a href=\"handbooksearch://sailrecolor\">船帆改色物品</a>重新着色。<br /><br /> 只有最小的船只可以再次捡起，其他船只只能拆解。<br />拆解：你可以用<a href=\"handbooksearch://saw\">锯子</a>右键点击任何船只来拆解，以取回一部分材料。你需要按住鼠标按钮一段时间，才能完成。",
 	
 "game:handbooktitle-catboat": "建造花费：",
 "game:handbooktext-catboat": "8 柴火<br>12 原木<br>73 支撑梁<br>104 木板<br>30 绳索<br>32 亚麻",
