@@ -182,3 +182,4 @@
 177. `Immersive Backpacks Compat & Tweaks / 沉浸式背包兼容与调整` [0.0.4](https://mods.vintagestory.at/immersivebackpackscompattweaks)
 178. `VS Roofing Mod / 复古屋顶模组` [2.0.4](https://mods.vintagestory.at/vsroofing)
 179. `Shipwright / 船匠` [1.4.1](https://mods.vintagestory.at/show/mod/46047)
+180. `Walkable Entities / 可步行实体` [1.0.22](https://mods.vintagestory.at/walkableentities)
