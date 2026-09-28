@@ -2,6 +2,7 @@
   "game:tabname-foodshelves": "食物架子",
 
   "foodshelvesserver": "食物架服务器",
+  "foodshelvesclient": "FoodShelves Client",
 
   "foodshelvesguide-title": "食品架指南",
   "foodshelvesguide-text": "<strong>食品架：玩家指南</strong><br><br><strong>介绍</strong><br>此模组添加了多种存储选项，例如用于展示的架子、用于装饰的篮子以及其他专用容器。某些方块还提供<strong>机械效果</strong>，例如对保鲜度、熟化或干燥速度的增益。<br><br><strong>注意</strong><br>此模组在设计时考虑了<a href=\"https://mods.vintagestory.at/expandedfoods\">扩展食品</a>。只有安装了扩展食品模组，某些方块（例如桶架）才能<strong>熟化液体</strong>。如果没有安装，它们仍会提供与保鲜度相关的增益，但不会发生熟化过程。<br><br><strong>方块增益</strong><br>某些方块会提供对<i>腐烂速度</i>、<i>熟化速度</i>或<i>干燥速度</i>的增益。如果方块具有此类增益，将直接显示在鼠标悬停时的方块提示信息中。这些提示信息也可能显示有用的<i>生活便利</i>功能——例如，<a href=\"handbook://block-foodshelves:seedbins-normal-east\">种子箱</a>会显示其所含种子所需的养分类型。<br><br><strong>冰块冷却机制</strong><br>诸如<a href=\"handbook://block-foodshelves:coolingcabinet-normal-east\">冷藏柜</a>和<a href=\"handbook://block-foodshelves:meatfreezer-normal-east\">肉类冷冻柜</a>等方块，在其门<strong>关闭</strong>时提供微小的基础保鲜增益。让门敞开则会抵消此效果，因此请始终保持门关闭！<br>这些方块可以通过<a href=\"handbook://item-foodshelves:cutice\">冰砖</a>进一步增强。冰块被放置在专用的抽屉中，会随时间融化，并且必须定期更换。此增益仅在主隔层和冰块抽屉都关闭时才生效，所以请务必检查好这些门！<br><br><strong>用于装饰和保存的篮子</strong><br>篮子主要用于装饰，并非为批量存储而设计。但是，当放置在<a href=\"handbook://block-foodshelves:coolingcabinet-normal-east\">冷藏柜</a>内时，它们会继承冷藏柜的保鲜增益（无论是否使用了冰块），这使其成为一种既能保鲜又能增添时尚感的食品储存方式。<br><br><strong>更多信息</strong><br>并非所有容器都能接受所有物品。每个方块都有专门的手册条目，列出了有效的物品类型，并在相关时注明这些物品来自哪个模组。<br><br><strong>交互操作</strong><br>大多数交互操作都会通过<i>世界交互提示</i>（游戏内浮动的提示）显示。例如：向篮子添加物品、关闭柜门或用冰块填充抽屉。<br>某些交互操作<strong>不会</strong>显示，特别是当篮子位于柜子内部时。你仍然可以直接将物品放入篮子（右键单击正确的物品，或按住 <strong>CTRL</strong> 键以插入多个物品）。空手时，按住 <strong>CTRL</strong> 键可以一次取出一个物品。<br><br><i>尽情享受你装饰精美且功能齐全的厨房吧！</i>",
@@ -54,6 +55,7 @@
   "block-seedbins-*": "种子箱",
   "block-mushroombasket-*": "蘑菇篮",
   "block-fruitcooler-*": "水果冷藏箱",
+  "block-icekeeper-*": "Ice Keeper",
 
   "blockdesc-canhold-title": "可存放：",
   "blockdesc-canbeplacedin-title": "可放置于：",
@@ -84,12 +86,14 @@
   "blockdesc-fruitcooler-text": "可存放所有水果。",
   "blockdesc-ceilingrack-text": "  - 大罐。可容纳大罐所能容纳的所有物品。",
   "blockdesc-jarstand-text": "  - 罐子。",
+  "blockdesc-icekeeper-text": "  -Cut Ice.",
 
   "helddesc-breadshelf": "放在此架子上的面包保鲜时间延长100%。",
   "helddesc-barrelrack": "存放在此木桶架中的液体保鲜时间延长50%，熟成速度减慢20%。",
   "helddesc-tunrack": "存放在此酿酒缸架中的液体保鲜时间延长60%，熟成速度减慢25%。",
   "helddesc-jarlarge": "放入大罐的食物干燥或融化速度快2.5倍，保鲜时间延长30%。储存在其中的谷物比储存在储物容器中保鲜时间延长35%。",
   "helddesc-jar": "放入罐子的食物干燥或融化速度快2.5倍，保鲜时间延长30%。储存在其中的谷物比储存在储物容器中保鲜时间延长35%。",
+  "helddesc-ceilingrack": "Food placed in the Large Jar within this Ceiling Rack dries or melts 2.5x faster, and stays fresh for 30% longer. Grain stored in it is fresh for 35% longer than in a Storage Vessel.",
   "helddesc-fooddisplaycase": "放入此展示柜的食物保鲜时间延长25%。",
   "helddesc-coolingcabinet": "存放在此柜中的食物保鲜时间延长25%，添加冰块后最多可延长70%。<br>请务必保持关闭！",
   "helddesc-meatfreezer": "储存在此冷冻柜中的生肉保鲜时间延长55%，加入冰块后可延长235%。<br>请务必保持关闭！",
@@ -97,6 +101,7 @@
   "helddesc-floursack": "放入此麻袋中的面粉保鲜时间延长170%。",
   "helddesc-fruitcooler": "放入此冷藏箱的水果保鲜时间延长55%，加入冰块后可延长235%。<br>请务必保持关闭！",
   "helddesc-seedbins": "显示内部存放种子所需的养分类型和理想温度。",
+  "helddesc-icekeeper": "Keeps your Cut Ice in bulk, never to be melted!",
 
   "This item cannot be placed in this container.": "此物品无法放置在该容器中。",
   "Only pies or cheese can be placed on this shelf.": "此架子只能放置馅饼或奶酪。",
@@ -121,6 +126,7 @@
   "Only Large Jars can be placed on this rack.": "只能将大罐放置在此架子上。",
   "Only Jars can be placed on this stand.": "只能将罐子放置在此支架上。",
 
+  "A Large Jar must be placed on this rack first.": "A Large Jar must be placed on this rack first.",
   "This tun needs to be placed in a tun rack.": "此酿酒缸需要放置在酿酒缸架中。",
   "The barrel must be emptied before it can be picked up.": "木桶必须清空后才能拿起。",
   "The tun must be emptied before it can be picked up.": "酿酒缸必须清空后才能拿起。",
@@ -137,14 +143,17 @@
   "Will melt in {0} years": "将在{0}年内融化",
   "Will melt in {0} days": "将在{0}天内融化",
   "Will melt in {0} hours": "将在{0}小时内融化",
+  "Will never melt": "Will never melt",
 
   "Will cure in {0} years": "将在{0}年内熟成",
   "Will cure in {0} days": "将在{0}天内熟成",
   "Will cure in {0} hours": "将在{0}小时内熟成",
+  "Will never cure": "Will never cure",
 
   "Will dry in {0} years": "将在{0}年内晾干",
   "Will dry in {0} days": "将在{0}天内晾干",
   "Will dry in {0} hours": "将在{0}小时内晾干",
+  "Will never dry": "Will never dry",
 
   "Average freshness {0} years": "平均保鲜期：{0}年",
   "Average freshness {0} days": "平均保鲜期：{0}天",

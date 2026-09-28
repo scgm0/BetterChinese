@@ -65,7 +65,7 @@
 60. `Clayworks / 黏土工坊` [0.4.3](https://mods.vintagestory.at/clayworks)
 61. `CAN Market / CAN市场` [0.4.16](https://mods.vintagestory.at/canmarket)
 62. `Rust & Railroads Reborn / 铁锈与铁路重生` [2.0.8](https://mods.vintagestory.at/rustandrailroads)
-63. `Food Shelves / 食品架子` [3.0.4](https://mods.vintagestory.at/foodshelves)
+63. `Food Shelves / 食品架子` [3.1.0](https://mods.vintagestory.at/foodshelves)
 64. `Wildgrass / 野草` [1.3.0](https://mods.vintagestory.at/wildgrass)
 65. `Core of Arts / 艺术核心` [0.2.3](https://mods.vintagestory.at/coreofarts)
 66. `Art of Growing / 种植艺术` [1.1.0](https://mods.vintagestory.at/artofgrowing)
