@@ -185,3 +185,4 @@
 180. `Walkable Entities / 可步行实体` [1.0.22](https://mods.vintagestory.at/walkableentities)
 181. `Involved Farming: Fallow / 参与式农业：休耕` [1.0.5](https://mods.vintagestory.at/show/mod/62201)
 182. `Comfy Beds / 舒适床铺` [0.4.2](https://mods.vintagestory.at/show/mod/48158)
+183. `Komet - Performance Mod / 彗星 - 性能模组` [2.0.0](https://mods.vintagestory.at/komet)
