@@ -186,3 +186,4 @@
 181. `Involved Farming: Fallow / 参与式农业：休耕` [1.0.5](https://mods.vintagestory.at/show/mod/62201)
 182. `Comfy Beds / 舒适床铺` [0.4.2](https://mods.vintagestory.at/show/mod/48158)
 183. `Komet - Performance Mod / 彗星 - 性能模组` [2.0.0](https://mods.vintagestory.at/komet)
+184. `Desire Paths / 欲望之路` [0.5.1](https://mods.vintagestory.at/desirepaths)

@@ -1,0 +1,17 @@
+{
+  "game:tabname-desirepaths": "欲望之路",
+
+  "block-soilpath-verylow-*": "退化泥土小径",
+  "block-soilpath-low-*": "贫瘠泥土小径",
+  "block-soilpath-medium-*": "平庸泥土小径",
+  "block-soilpath-high-*": "黑土小径",
+  "block-soilpath-compost-*": "肥沃泥土小径",
+  "block-soilpath-forest-*": "森林地表小径",
+
+  "block-soilpathslab-verylow-*": "退化泥土小径",
+  "block-soilpathslab-low-*": "贫瘠泥土小径",
+  "block-soilpathslab-medium-*": "平庸泥土小径",
+  "block-soilpathslab-high-*": "黑土小径",
+  "block-soilpathslab-compost-*": "肥沃泥土小径",
+  "block-soilpathslab-forest-*": "森林地表小径"
+}
