@@ -128,7 +128,7 @@
 123. `Better Nails / 更好的钉子` [2.0.3](https://mods.vintagestory.at/betternails)
 124. `Better Crates / 更好的板条箱` [1.10.0](https://mods.vintagestory.at/show/mod/146)
 125. `Better Jonas Devices / 更好的乔纳斯设备` [2.1.6](https://mods.vintagestory.at/betterjonasdevicesfixedagain)
-126. `HUD Clock Patch / 简易时钟` [4.3.1](https://mods.vintagestory.at/hudclock)
+126. `HUD Clock / 简易时钟` [4.4.1](https://mods.vintagestory.at/hudclock)
 127. `Diminished Hammering / 降低锻打声` [1.0.1](https://mods.vintagestory.at/diminishedhammering)
 128. `Xandus Inventory Tweaks Fork / [Xandus] 库存整理分叉` [1.9.1](https://mods.vintagestory.at/xinvtweaksfork)
 129. `Stone Bake Oven / 石烤炉` [1.4.0](https://mods.vintagestory.at/stonebakeoven)
