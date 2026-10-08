@@ -1,0 +1,5 @@
+{
+  "block-temporaltempforecaster": "时序温度预报器",
+  "blockdesc-temporaltempforecaster": "一个巧妙的装置，可以预报长期气候异常。右键点击它，即可查看当年哪些月份的气温将高于或低于平均值。",
+  "game:tabname-dynamicseasonaltemperature": "动态季节温度"
+}
