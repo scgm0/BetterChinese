@@ -81,7 +81,7 @@
   "gui-possible-product" : "可能的产品",
   "gui-description-short": "简短描述",
   "gui-description-long": "描述",
-  "gui-webhook": "Webhook URL",
+  "gui-webhook": "Webhook 地址",
   "gui-save": "保存",
   "gui-sale-entry": "{0}x {1} 以 {2}x {3} 售出",
   "gui-shop-catalog": "商店目录",

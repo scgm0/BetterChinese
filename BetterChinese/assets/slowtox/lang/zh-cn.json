@@ -21,5 +21,6 @@
     "slowtox:Config.Setting.IgnoreSmallDamageChanceMax": "忽略小伤害的最大几率",
     "slowtox:Config.Setting.WalkSpeedPenaltyIntoxBeginApply": "开始应用行走速度惩罚的醉酒等级",
     "slowtox:Config.Setting.WalkSpeedPenaltyIntoxFullApply": "完全应用行走速度惩罚的醉酒等级",
-    "slowtox:Config.Setting.WalkSpeedPenaltyMax": "醉酒可造成的最大行走速度惩罚"   
+    "slowtox:Config.Setting.WalkSpeedPenaltyMax": "醉酒可造成的最大行走速度惩罚",
+  "slowtox:Config.Setting.ToleranceAffinity": "大于 1 时，酒精耐受形成更快、消退更慢；小于 1 时则相反。"
 }

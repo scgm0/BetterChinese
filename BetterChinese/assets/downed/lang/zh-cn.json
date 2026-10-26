@@ -106,5 +106,7 @@
     "BloodDecalCleanupIntervalMinutes-comment": "自动清理已加载区块中血液贴花的真实时间间隔（分钟）。",
     "cannot-do-this": "现在无法执行此操作",
     "execute-no-pvp": "无法处决其他玩家，PvP 未启用",
-    "execute-no-privilege": "你不被允许攻击其他玩家"
+    "execute-no-privilege": "你不被允许攻击其他玩家",
+  "ExecuteInterruptDamage": "处决中断伤害",
+  "ExecuteInterruptDamage-comment": "处决者累计受到多少伤害后，处决会被打断。"
 }

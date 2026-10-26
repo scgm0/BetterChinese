@@ -1,0 +1,4 @@
+{
+  "simplevoicechat:server-admin-usage": "用法：/svc {0} <玩家>",
+  "simplevoicechat:server-setrange-usage": "用法：/svc setrange whisper|talk|shout <格数>"
+}

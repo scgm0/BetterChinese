@@ -297,6 +297,7 @@
 	"block-decobookshelf": "装饰书架",
 	"blockdesc-decobookshelf": "可接受一个雕凿方块来替换其形状，否则就是一个功能性的书架。（使用扳手移除形状）",
 	"block-chiseledwatersource": "装饰水源",
-	"blockdesc-chiseledwatersource": "一个无限供应淡水的源头，会呈现雕凿方块的形状。不会漏水！"
-	
+	"blockdesc-chiseledwatersource": "一个无限供应淡水的源头，会呈现雕凿方块的形状。不会漏水！",
+  "ADDPASTEALL": "完整合并",
+  "portfoliorequirespantograph": "<font color=\"#ff8888\">需要装载了图案的缩放仪才能打开作品集！</font>"
 }
